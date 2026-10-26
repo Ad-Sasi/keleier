@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="br">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Keleier</title>
+<meta name="theme-color" content="#1c2126">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Keleier">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<style>
+  :root {
+    --fond: #f6f1e8;
+    --carte: #fffaf2;
+    --encre: #1c2126;
+    --doux: #6b6359;
+    --trait: #e3d9c9;
+    --accent: #b85c2a;
+    --accent-encre: #fffaf2;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fond: #1c2126;
+      --carte: #252b31;
+      --encre: #f2ebe0;
+      --doux: #a39a8e;
+      --trait: #343b42;
+      --accent: #d9783f;
+      --accent-encre: #1c2126;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--fond); color: var(--encre); }
+  body {
+    font: 17px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    padding: calc(env(safe-area-inset-top) + 20px) 16px calc(env(safe-area-inset-bottom) + 32px);
+    max-width: 560px; margin: 0 auto;
+    -webkit-tap-highlight-color: transparent;
+  }
+  button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0; }
+
+  .tete { font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--doux); margin: 0 0 10px; }
+
+  /* le lecteur : un seul, en haut */
+  .lecteur { background: var(--carte); border: 1px solid var(--trait); border-radius: 22px; padding: 22px 20px 18px; }
+  .lecteur h1 { font-size: 22px; line-height: 1.25; margin: 0 0 4px; font-weight: 650; }
+  .lecteur .sous { color: var(--doux); font-size: 15px; margin: 0; min-height: 1.45em; }
+  .commandes { display: flex; align-items: center; justify-content: space-between; margin: 22px 4px 14px; }
+  .rond {
+    width: 88px; height: 88px; border-radius: 50%; background: var(--accent); color: var(--accent-encre);
+    display: grid; place-items: center; box-shadow: 0 6px 20px rgb(0 0 0 / .18);
+  }
+  .rond svg { width: 34px; height: 34px; }
+  .petit { width: 56px; height: 56px; border-radius: 50%; display: grid; place-items: center; font-size: 15px; font-weight: 600; color: var(--doux); border: 1px solid var(--trait); }
+  .petit:disabled { opacity: .3; }
+  .barre { display: flex; align-items: center; gap: 10px; font-size: 13px; color: var(--doux); font-variant-numeric: tabular-nums; }
+  .barre input { flex: 1; accent-color: var(--accent); }
+  .lecteur.direct .barre { display: none; }
+  .texte { margin-top: 14px; border-top: 1px solid var(--trait); padding-top: 12px; }
+  .texte summary { color: var(--accent); font-size: 15px; font-weight: 600; list-style: none; cursor: pointer; }
+  .texte summary::-webkit-details-marker { display: none; }
+  .texte p { white-space: pre-line; font-size: 16px; margin: 10px 0 0; }
+
+  section { margin-top: 30px; }
+  .ligne {
+    display: flex; align-items: center; gap: 14px; width: 100%; text-align: left;
+    padding: 14px 4px; border-bottom: 1px solid var(--trait);
+  }
+  .ligne:last-child { border-bottom: 0; }
+  .ligne .pastille { width: 36px; height: 36px; flex: none; border-radius: 50%; border: 1.5px solid var(--accent); display: grid; place-items: center; color: var(--accent); }
+  .ligne .pastille svg { width: 13px; height: 13px; }
+  .ligne.encours .pastille { background: var(--accent); color: var(--accent-encre); }
+  .ligne .t { flex: 1; min-width: 0; }
+  .ligne .t b { display: block; font-weight: 550; font-size: 16px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .ligne .t span { font-size: 13px; color: var(--doux); }
+  .vu { color: var(--doux); font-size: 13px; }
+  .pied { margin-top: 34px; font-size: 12px; color: var(--doux); text-align: center; }
+</style>
+</head>
+<body>
+
+<p class="tete" id="tete">Keleier an deiz</p>
+<div class="lecteur" id="lecteur">
+  <h1 id="titre">…</h1>
+  <p class="sous" id="sous"></p>
+  <div class="commandes">
+    <button class="petit" id="recul" aria-label="10 eilenn a-dreñv">−10</button>
+    <button class="rond" id="lecture" aria-label="Selaou">
+      <svg id="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+    </button>
+    <button class="petit" id="vitesse" aria-label="Tizh">×1</button>
+  </div>
+  <div class="barre">
+    <span id="ecoule">0:00</span>
+    <input type="range" id="curseur" min="0" max="1000" value="0" aria-label="Lec'h">
+    <span id="total">–:––</span>
+  </div>
+  <details class="texte" id="bloc-texte" hidden>
+    <summary>Lenn an destenn</summary>
+    <p id="texte"></p>
+  </details>
+</div>
+
+<section>
+  <p class="tete">Ar reportaj · 2 vunutenn</p>
+  <div id="liste-reportaj"></div>
+</section>
+
+<section>
+  <p class="tete">Keleier kent</p>
+  <div id="liste-journal"></div>
+</section>
+
+<section>
+  <p class="tete">War-eeun</p>
+  <div id="liste-radios"></div>
+</section>
+
+<p class="pied" id="pied"></p>
+
+<script>
+const PLAY = '<path d="M8 5v14l11-7z"/>';
+const PAUSE = '<path d="M7 5h4v14H7zM13 5h4v14h-4z"/>';
+const VITESSES = [1, 0.9, 0.8, 0.7];
+const $ = (id) => document.getElementById(id);
+const audio = new Audio();
+audio.preload = "none";
+
+let donnees = null;
+let courant = null; // {type: 'ep'|'direct', ...}
+let vitesse = Number(lire("vitesse")) || 1;
+
+function lire(k) { try { return localStorage.getItem(k); } catch { return null; } }
+function ecrire(k, v) { try { localStorage.setItem(k, v); } catch {} }
+
+function minutes(s) {
+  if (!isFinite(s) || s <= 0) return "–:––";
+  s = Math.round(s);
+  return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+}
+function quand(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  const jour = d.toDateString() === new Date().toDateString() ? "hiziv" : d.toLocaleDateString("fr-FR", { weekday: "short", day: "numeric", month: "short" });
+  return jour + " · " + d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
+}
+function nettoie(t) { return t.replace(/^E brezhoneg\s*-\s*/i, ""); }
+
+function charger(item, lancer) {
+  enregistrerPosition();
+  courant = item;
+  const direct = item.type === "direct";
+  $("lecteur").classList.toggle("direct", direct);
+  $("titre").textContent = direct ? item.nom : nettoie(item.titre);
+  $("sous").textContent = direct ? "War-eeun" : quand(item.date);
+  $("tete").textContent = direct ? "Radio" : (item.liste === "journal" ? "Keleier an deiz" : "Ar reportaj");
+  $("recul").disabled = direct;
+  $("vitesse").disabled = direct;
+  $("bloc-texte").hidden = direct || !item.texte;
+  $("texte").textContent = item.texte || "";
+  $("bloc-texte").open = false;
+  $("total").textContent = minutes(item.duree);
+  $("ecoule").textContent = "0:00";
+  $("curseur").value = 0;
+  audio.src = direct ? item.stream : item.audio;
+  audio.playbackRate = direct ? 1 : vitesse;
+  if (!direct) {
+    const pos = Number(lire("pos:" + item.id));
+    if (pos > 5) audio.addEventListener("loadedmetadata", () => { audio.currentTime = pos; }, { once: true });
+  }
+  session();
+  marquer();
+  if (lancer) audio.play().catch(() => {});
+  else iconer();
+  if (direct) quiJoue();
+}
+
+function enregistrerPosition() {
+  if (!courant || courant.type !== "ep" || !audio.duration) return;
+  ecrire("pos:" + courant.id, String(Math.floor(audio.currentTime)));
+  if (audio.currentTime / audio.duration > 0.92) ecrire("vu:" + courant.id, "1");
+}
+
+function iconer() {
+  const joue = !audio.paused;
+  $("ico").innerHTML = joue ? PAUSE : PLAY;
+  $("lecture").setAttribute("aria-label", joue ? "Ehan" : "Selaou");
+  if ("mediaSession" in navigator) navigator.mediaSession.playbackState = joue ? "playing" : "paused";
+}
+
+function session() {
+  if (!("mediaSession" in navigator) || !courant) return;
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: courant.type === "direct" ? courant.nom : nettoie(courant.titre),
+    artist: courant.type === "direct" ? "War-eeun" : (courant.liste === "journal" ? "Keleier ar Vro" : "Ar reportaj"),
+    artwork: [{ src: "icon-512.png", sizes: "512x512", type: "image/png" }],
+  });
+}
+if ("mediaSession" in navigator) {
+  navigator.mediaSession.setActionHandler("play", () => audio.play());
+  navigator.mediaSession.setActionHandler("pause", () => audio.pause());
+  navigator.mediaSession.setActionHandler("seekbackward", () => { audio.currentTime = Math.max(0, audio.currentTime - 10); });
+  navigator.mediaSession.setActionHandler("seekforward", () => { audio.currentTime += 10; });
+}
+
+$("lecture").onclick = () => { audio.paused ? audio.play().catch(() => {}) : audio.pause(); };
+$("recul").onclick = () => { audio.currentTime = Math.max(0, audio.currentTime - 10); };
+$("vitesse").onclick = () => {
+  vitesse = VITESSES[(VITESSES.indexOf(vitesse) + 1) % VITESSES.length];
+  ecrire("vitesse", vitesse);
+  audio.playbackRate = vitesse;
+  afficherVitesse();
+};
+function afficherVitesse() { $("vitesse").textContent = "×" + String(vitesse).replace(".", ","); }
+
+$("curseur").oninput = (e) => { if (audio.duration) audio.currentTime = (e.target.value / 1000) * audio.duration; };
+audio.addEventListener("play", iconer);
+audio.addEventListener("pause", () => { iconer(); enregistrerPosition(); marquer(); });
+audio.addEventListener("ended", () => { enregistrerPosition(); marquer(); });
+audio.addEventListener("loadedmetadata", () => { $("total").textContent = minutes(audio.duration); });
+let dernier = 0;
+audio.addEventListener("timeupdate", () => {
+  if (!audio.duration || courant?.type === "direct") return;
+  $("ecoule").textContent = minutes(audio.currentTime);
+  $("curseur").value = (audio.currentTime / audio.duration) * 1000;
+  if (Date.now() - dernier > 5000) { dernier = Date.now(); enregistrerPosition(); }
+});
+document.addEventListener("visibilitychange", enregistrerPosition);
+
+const ICO_LIGNE = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+function ligne(item, titre, detail, cle) {
+  const b = document.createElement("button");
+  b.className = "ligne";
+  b.dataset.cle = cle;
+  b.innerHTML = `<span class="pastille">${ICO_LIGNE}</span><span class="t"><b></b><span></span></span><span class="vu"></span>`;
+  b.querySelector("b").textContent = titre;
+  b.querySelector(".t span").textContent = detail;
+  b.onclick = () => { charger(item, true); window.scrollTo({ top: 0, behavior: "smooth" }); };
+  return b;
+}
+
+function marquer() {
+  document.querySelectorAll(".ligne").forEach((b) => {
+    const cle = b.dataset.cle;
+    const actif = courant && cle === (courant.type === "direct" ? "radio:" + courant.code : courant.id);
+    b.classList.toggle("encours", !!actif);
+    if (!cle.startsWith("radio:")) b.querySelector(".vu").textContent = lire("vu:" + cle) ? "✓" : "";
+  });
+}
+
+function afficher() {
+  const journal = donnees.journal.episodes.map((e) => ({ ...e, type: "ep", liste: "journal" }));
+  const reportaj = donnees.reportaj.episodes.map((e) => ({ ...e, type: "ep", liste: "reportaj" }));
+  const radios = donnees.radios.map((r) => ({ ...r, type: "direct" }));
+
+  const lj = $("liste-journal"); lj.innerHTML = "";
+  journal.slice(1).forEach((e) => lj.append(ligne(e, e.titre.replace(/^Keleier ar vro /i, ""), quand(e.date), e.id)));
+  const lr = $("liste-reportaj"); lr.innerHTML = "";
+  reportaj.forEach((e) => lr.append(ligne(e, nettoie(e.titre), quand(e.date) + (e.duree ? " · " + minutes(e.duree) : ""), e.id)));
+  const ld = $("liste-radios"); ld.innerHTML = "";
+  radios.forEach((r) => { const b = ligne(r, r.nom, "", "radio:" + r.code); b.dataset.code = r.code; ld.append(b); });
+
+  if (!courant && journal[0]) charger(journal[0], false);
+  else marquer();
+  $("pied").textContent = "Hizivaet " + quand(donnees.maj);
+  quiJoue();
+}
+
+// ce que diffusent les radios en ce moment (ce serveur-là accepte d'être lu par le téléphone)
+async function quiJoue() {
+  try {
+    const r = await fetch("https://stream.radios.bzh/api/nowplaying");
+    const liste = await r.json();
+    const parCode = Object.fromEntries(liste.map((s) => [s.station.shortcode, s]));
+    const enClair = (t) => [t.artist, t.title].filter(Boolean).join(" · ").replace(/﻿/g, "");
+    document.querySelectorAll("#liste-radios .ligne").forEach((b) => {
+      const s = parCode[b.dataset.code];
+      const t = s?.now_playing?.song;
+      b.querySelector(".t span").textContent = s && !s.is_online ? "ehanet" : (t ? enClair(t) : "");
+    });
+    if (courant?.type === "direct") {
+      const t = parCode[courant.code]?.now_playing?.song;
+      if (t) $("sous").textContent = "War-eeun · " + enClair(t);
+    }
+  } catch {}
+}
+setInterval(() => { if (!document.hidden) quiJoue(); }, 30000);
+
+async function demarrer() {
+  afficherVitesse();
+  try {
+    const r = await fetch("data/journal.json", { cache: "no-store" });
+    donnees = await r.json();
+    afficher();
+  } catch {
+    $("titre").textContent = "N'eus ket bet tu da gargañ";
+  }
+}
+document.addEventListener("visibilitychange", () => { if (!document.hidden && donnees && audio.paused) demarrer(); });
+demarrer();
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>

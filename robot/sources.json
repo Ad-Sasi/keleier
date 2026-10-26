@@ -1,0 +1,18 @@
+{
+  "journal": {
+    "nom": "Keleier ar Vro",
+    "rss": "https://rss.radios.bzh/fr/1/programs/1",
+    "garder": 6
+  },
+  "reportaj": {
+    "nom": "Keleier : Ar reportaj",
+    "rss": "https://radiofrance-podcast.net/podcast09/podcast_32beb1b2-5d83-4b54-9e2c-0ac886ef7b94.xml",
+    "garder": 3
+  },
+  "radios": [
+    { "nom": "Arvorig FM", "code": "arvorig", "stream": "https://stream.radios.bzh/listen/arvorig/radio.mp3" },
+    { "nom": "Radio Kerne", "code": "kerne", "stream": "https://stream.radios.bzh/listen/kerne/radio.mp3" },
+    { "nom": "Radio Bro Gwened", "code": "rbg", "stream": "https://stream.radios.bzh/listen/rbg/radio.mp3" },
+    { "nom": "Radio Kreiz Breizh", "code": "rkb", "stream": "https://stream.radios.bzh/listen/rkb/radio.mp3" }
+  ]
+}

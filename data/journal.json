@@ -1,0 +1,107 @@
+{
+ "maj": "2026-10-26T10:45:10.732722+00:00",
+ "radios": [
+  {
+   "nom": "Arvorig FM",
+   "code": "arvorig",
+   "stream": "https://stream.radios.bzh/listen/arvorig/radio.mp3"
+  },
+  {
+   "nom": "Radio Kerne",
+   "code": "kerne",
+   "stream": "https://stream.radios.bzh/listen/kerne/radio.mp3"
+  },
+  {
+   "nom": "Radio Bro Gwened",
+   "code": "rbg",
+   "stream": "https://stream.radios.bzh/listen/rbg/radio.mp3"
+  },
+  {
+   "nom": "Radio Kreiz Breizh",
+   "code": "rkb",
+   "stream": "https://stream.radios.bzh/listen/rkb/radio.mp3"
+  }
+ ],
+ "journal": {
+  "nom": "Keleier ar Vro",
+  "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84262",
+    "titre": "Keleier ar vro d'al Lun 26 a viz-Here 2026",
+    "date": "2026-10-26T08:05:19+00:00",
+    "audio": "https://api.radios.bzh/assets/d84de16c-7b88-4b52-9428-c632530de17f.mp3",
+    "duree": null,
+    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nGant Joel Donarzh eo aet ar priz Langleiz ar bloaz-mañ.\nJoel Donarzh en doa bet ar priz Langleiz e Saloñs al Levrioù e Karaez, evit e oberennoù hag e droidegezhioù. Daou zastumad danevelloù en deus embannet betek-henn : Amzer Grenn ha Alez-Kenwerzh. Brudet eo evit e labour treiñ a-ziwar levrioù okitanek ivez. Selaouomp anezhañ.\nUn atersadenn gant Anton Burel.\nGeriadur Aerlin\nGeriadur Aerlin a oa prezañtet d'an dud e saloñs al Levrioù e Karaez. Ur geriadur teiryezhek, benelour hag LGBTQ+, da zeskiñ d'an dud geriaoueg bet krouet gant ar strollad Aerlin. Muioc'h da glevet gant Morgane Bramoullé.\nUn atersadenn gant Anton Burel.\nHa da glevet er c'heleier ivez : \nLula zo bet aet da brezidant en-dro e Bro-Vrazil.\nAn tu-kleiz zo degouezhet e penn an dilennadegoù-deputeet e Bro-Serbia.\nNebeutoc'h a dud a oa bet o vanifestiñ e Frañs disadorn.\nJordan Bardella zo bet anvet prezidant an RN adarre.\nKeloù eus ar fuzuilhadeg e Trappes, e-kichenn Pariz.\nPajenn football : Stad Roazhon e penn ar championad !"
+   },
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84235",
+    "titre": "Keleier ar vro d'ar Gwener 23 a viz Here 2026",
+    "date": "2026-10-23T07:54:57+00:00",
+    "audio": "https://api.radios.bzh/assets/268b1214-8811-4f2f-8fde-3dbc345b503e.mp3",
+    "duree": null,
+    "texte": "Embannet eo bet ar c'heleier gant Anton Burel\nManifestadeg ar 17 a viz Here deus tu ar vanifesterien yaouank\nTenn ‘oa bet etre ar polis ha manifesterien zo disadorn da geñver ar manifestadegoù ouzh ar vuhez ker. ‘Ba Kemper, ‘ba Roazhon, ‘ban Naoned, ‘ban Oriant ha ‘ba Brest ‘zo savet kann. Ha ‘ba Brest eo da geñver fin ar vanifestadeg ‘pa oa en em gavet ar vanifestadeg tost eus komiserdi Colbert eo aet an traoù war dommaat da vat. Bannet ‘oa bet gaz lacrymo gant ar CRSed. Respontet ‘neunt manifesterien zo d’an tagadennoù se o vannañ pavezioù ouzh ar polis ‘pad teir eur. Penaos eo tremenet an traoù ‘ba Brest hervez tud yaouank ‘oa o vanifestiñ ‘ba Brest disadorn. Asantet ‘neunt komz gant ma ‘vefe cheñchet o anvioù hag o mouezhioù . Anveet ‘meump ‘nezho Nevenoe hag Erispoe.\nUr pennad-kaoz gant Erwan Blanchard\nDiaesamantoù el labour douar : Charlotte Kerglonou he deus savet ur c'hef enlinenn evit saveteiñ he menaj\nN’eo ket achu ar prantad sec’hder c’hoazh goude un hañvezh a oa bet spontus evit an endro, evit al labourerien douar e oa bet diaes-tre hag e chom diaes-tre an traoù. Evel-se e oa bet lakaet diaes ar chatal, e menajoù zo e oa marvet kantadoù a loened, kollet neun ivez a-fed produi laezh, Foen ha ed ‘pad an eost en ur mare a oa diaes evit al labour douar c’hoazh. Evit ar re n’int ket e bio eo kresket a-galz priz an temz kimiek blam d’ar brezel en Iran. Gant-se eo 30000 menaj a zo en arvar da vont war strat er stad c’hall. Charlotte Kerglonoù zo bet lakaet diaes-tre ivez ‘pad an hañv, al labourerez douar bio ba Stredell e Bro Gwitreg a zo ivez prezidantez ar c’honf 35 he deus graet ur galv skoazell ha savet ur c’hagnotte war go fund me evit gellout tremen ar mare-se, ur prantad sec’hder istorel. \nUr pennad-kaoz gant Anton Burel\nHa da selaou ouzhpenn 'bar c'heleier:\nAr stad o prientiñ manifestadeg ar 24 a viz Here\nStourm e Gwadloup ouzh an diaesamantoù armerzhel, koust ar vuhez hag ar stad trevadennel\nKorventenn Austen he deus skoet Breizh ha kornôg Bro-C'hall\nLig Europa : 2-2 etre Stad Roazhon ha Juventus Turino"
+   },
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84200",
+    "titre": "Keleier ar vro d'ar Yaou 22 a viz Here 2026",
+    "date": "2026-10-22T07:14:41+00:00",
+    "audio": "https://api.radios.bzh/assets/a3d9689f-9e57-4f22-b9e0-ea3259f239b5.mp3",
+    "duree": null,
+    "texte": "Kinniget eo bet ar c'heleier ar mintin-mañ gant Metig Jakez-Vargas\nDaoust hag erruet eo an 3000 den ouzhpenn a oa bet prometet en deskadurezh-stad ?\nUnan deus respontoù pleustrek pennañ ar gouarnamant da enkadenn al liseoù a oa kinnig tri mil kelenner ouzhpenn lec’h ma zo ar mankoù brasañ, hervez pezh noa embannet Edouard Geffray, ministr an deskadurezh stad, d’an 8 a viz Here. Penaos eo tremenet an traoù war an dachenn ? Selaouomp diouzhtu Marina Nedeleg kelennerez war an istor douaroniezh e lise Jean Macé e Roazhon ha sindikalourez b’ar SNES-FSU...\nManifestadeg a-enep d'ar panelloù-heol er parkeier e Rostrenn\nSavet ez eus bec'h e Rostrenn abaoe penn-kentañ ar bloaz, pa oa bet roet da c'hoût e vefe savet pannelloù fotovoltaek e Megoed. Goulenn a ra maer ar gumun hag ar strollad WAT, \"War an Toennoù\", ma vo dalc'het an tachennoù-se evit al labour-douar. Un enklask publik a oa bet kaset da benn goude-se eus Miz-Even da viz-Gouere, evit goulenn o ali gant an dud. Met a-benn ar fin, ar prefed en deus roet koñje da sevel ar parkad pannelloù-se. Disadorn tremenet e oa en em vodet tud ar c'holektif War an Toennoù da enebiñ ur wech all c'hoazh ouzh ar raktres-mañ. Selaouomp Etienne Cabaret, zo ezel deus ar strollad.\nHa da glevet ivez er c'heleier : \n- Kreskiñ a raio an temperadur bedel eus 2,6 derez 'benn fin ar c'hantved\n- Manifestadegoù nevez a zo raktreset e Frañs disadorn a-enep da goust ar vuhez\n- Muzulioù ispisial zo bet tapet gant prefed Penn-ar-Bed dec'h\n- Neofaskourien o doa manifestet e Lyon dilun noz daoust d'ar c'heulfe\n- Votet en deus ar parlamant a unvouezh dimeurzh evit ma vo freuzet ar « C'hod Du »\n- Kreñv e c'hwezho an avel fenoz"
+   },
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84176",
+    "titre": "Keleier ar vro d'ar Merc'her 21 a viz Gouel-Mikael 2026",
+    "date": "2026-10-21T07:08:52+00:00",
+    "audio": "https://api.radios.bzh/assets/9388c30d-bf2b-4822-96bf-e497d4748f81.mp3",
+    "duree": null,
+    "texte": "Kinniget eo bet an doereioù get Aodren Trehin ar mintin-mañ\nTammigoù douar bihan tout eo Inizi Houat ha Hedig !\n9 skolajiad a zo hepken e skolaj Houat a voda krennarded an div enezenn. Peseurt sell o deus àr ar fed bevañ àr un enezenn vihan, peseurt c’hoantoù, diaesamantoù, ha spioù a zo gete? Penaos e wellont an dazont àr o ziariad ? Setu goulennoù zo bet savet dezhe e korf ur studiadenn ‘zo bet kaset etre 2023-2026. \nJulien Torchin a zo enklaskour ha kelennour ar geografiezh e skol-veur Roazhon 2. Penaos en deus kaset an enklask-se da benn get e genseurted Solène Godin ha Brieuc Bisson, ha peseurt disoc’hoù zo daet diàr wel ? Respont geton doc'h mikro Aodren Trehin.\nAn diskouezadeg a zo bet savet diàr ar studiadenn a oa da welet e Houat e-pad an hañv hag e Hedig emañ bremañ betek miz Kalañ-gouianv e mediaoueg ar semafor. Ar studiadenn glok a vo da lenn edan berr er gazetenn Melvan, la revue des deux îles.\nEdan statud « takad get un enkadenn sec’hor » emañ departamant Penn-ar-Bed a-c’houde miz Eost.\nUn diouver a zour ‘zo kaoz. Mizioù zo ‘neus ket bet glaveier bras ‘ba Breizh ha aet eo neuze live an dour ‘bar stêrioù ha ‘bal lennoù àr zisteraat.\nHervez ar BRGM (Bureau des recherches géologiques et minières) eo ar bras ag al lenneier a zo re izel o live. Setu ar pezh a zegouezha e Kommanna e lec’h m’emañ lenn an Drenneg. Ne chom ket meit un drederenn ag an dour a c’hella bout dalc’het enni. 300 000 a dud d’an nebeutañ a zo liammet d’ar rouedad dour a zo stag da lenn an Drenneg. Ha n’eo ket get ar pennadoù berr get glav a zo bet e miz Gouel-Mikael eo bet cheñchet an traoù él ma tisplega Fulup Plouzane, maer Kommanna.\nFulup Plouzane a oa get Erwan Blanchard.\nDa glevet ivez en doereioù:\n-Nac'het n'eus proviñs an Alberta aozin ur referedun evit choej bout dizalc'h doc'h ar C'hanada. \n-Ouzhpenn an hanter a pennoù bras an RN a zo tamallet dezhe get ar media Bon pote gouennelouriezh pe enep-yuzeviezh.\n-Rima Hassan, kannadez euopean skritell LFI geti, a zo dirak ar justis evit meuleudi ar sponterezh enep-yuzev.\n-An ONG ICAW a c’houlenna get gourc’hmac’hadoù Bro Frañs diwall doc'h an drougoù gouzañvet get ar chevred. \n-Kendalc’hiñ a ra al luskad sokial evit kondisionoù studi al liseidi ha priz ar vuhez."
+   },
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84145",
+    "titre": "Keleier ar vro d'ar Meurzh 20 a viz-Here 2026",
+    "date": "2026-10-20T07:06:42+00:00",
+    "audio": "https://api.radios.bzh/assets/747533a2-56da-4db9-81ac-3d5e7e6985d0.mp3",
+    "duree": null,
+    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nSavet eo an AMF a-enep d'ar feulster er manifestadegoù.\nDec'h da greisteiz e oa en em vodet tud dirak ti-kêr Plougastel-Daoulas, da selaou o maer Dominique Cap o lenn un destenn bet skrivet gant an AMF (Association des Maires de France). Disklêrian a ra ar gevredigezh ar violañsoù a oa bet disadorn ha disul, da-heul ar manifestadegoù.\nUr reportaj gant Erwan Blanchard.\nTregont vloaz eo Emglev Bro Douarnenez !\nLidet e oa bet tregont vloaz Emglev Bro Douarnenez disadorn. Krouet Selaouomp Elen Rubin, bet prezidantez ar gevredigezh pemzek vloaz 'zo, o kontañ deus istor an Emglev ; Bleuenn Raynaudon-Kerzhero ha Thomas Moysan Simon, kenprezidanted ar gevredigezh.\nUr reportaj gant Metig Jakez-Vargas.\nHa da glevet ivez :\nTan bras zo en Eñdonezi.\nStad an Alberta a garfe en em zistagañ diouzh ar C'hanada.\nSébastien Lecornu en deus roet da c'hoût e vo sikouret ar goñversañted bet dismerret o stalioù dezho.\nNeveshaet e vo Parcoursup.\nUn aksidant zo bet e brasañ uzin dour Breizh e Ferel."
+   },
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84106",
+    "titre": "Keleier ar vro d'al Lun 19 a viz Here 2026",
+    "date": "2026-10-19T07:08:13+00:00",
+    "audio": "https://api.radios.bzh/assets/9589cefc-9c92-4a6a-b587-c62c81209926.mp3",
+    "duree": null,
+    "texte": "Embannet eo bet ar c'heleier gant Erwan Blanchard\nManifestadegoù bras zo bet 'ba Breizh disadorn!\nTost 5000 a dud a oa en em vodet e straedoù Kemper disadorn mintin. Mesk ha mesk e oa liseidi, jiletennoù melen ha tud aet skuizh gant koust ar vuhez ha torr ar servijoù publik. Kalz tud yaouank a oa, startijenn gante, ambrouget gant ar sindikadoù Solidaire, FO hag ar CNT. Tapet o doa al liseidi ar gaoz e penn kentañ ar vanifestadeg, evit burutellañ ar feulsterioù polis bet gouzañvet gante ar sizhun dremenet. Burutellet o deus ivez kerent liseidi Brizeux o doa klasket terriñ o luskad hag ar blokus ar sizhun dremenet. An enepgouenelouriezh pe c'hoazh gwirioù an dud treuzjener a zo bet lakaet war wel ivez e-pad ar prezegennoù, a-raok ma loc'hfe ar vanifestadeg, kaset gant tonioù ar fanfar. Metig Jakez-Vargas a oa war blas...\nKevre Diwan zo di-brezidant!\nEmañ ar prezidantez, Anne-Sophie Brats é tihan disklêrian e tileza he fost. Adal dilun e vo achiv he resped ha dalc’het vo un tolpadeg dimeurzh evit dilenn unan bennak nevez e penn rouedad ar skolioù dre soubidigezh. Mar faota deoc’h degas ho nerzh da Ziwan, kerzhit e darempred get tud ar rouedad ar fonnaplan ar gwellan. Asantet he deus Anne-Sophie Brats displegañ deomp abegoù he dilez. Emañ gant Aodren Trehin.\nVotet eo bet adkempenn ar Sage-Gwilen\nDigwener beure e oa bet votet azgweladur ar SAGE Gwilen. Ampellaet e oa bet ar vot bloaz zo, d’an 11 a viz Kerdu 2025 blam da labourerien douar an FNSEA pe KBSLD hag al labourerien douar Yaouank o doa manifestet e Kastell-bourc’h. Ar wech-mañ e oa bodet Bodad Lec’hel an Dour e Sant-Yust e Bro-Redon. Tro kant den, sindikalourien Kengevread ar Beizanted ha stourmerien ekologour anezho a oa deuet da souten vot azgweladur ar SAGE. Deus an tu all e oa tro daou ugent sindikalour deus ar C’HBSLD hag al Labourerien Douar Yaouank. Niverus e oa an archerien ivez a oa deuet deus Roazhon ha Redon. Diwar 63 den o deus votet e Bodad labour an Dour eo 45 dioñte o deus votet evit an azgweladur ha 18 a enep. Keloù mat eo evit Jean-Michel Sanner ezel deus Dour ha Stêrioù Breizh. Emañ gant Anton Burel.\nHa da selaou ouzhpenn 'bar c'heleier:\n20 000 a dud 'ba Brest 'noant manifestet, laouen, disadorn!\nKann zo bet 'ba Brest, Roazhon an Naoned ha 'ba meur a c'hêr e fin ar manifestadegoù...\nJoelle Dimbo 'neus dougenet klemm ouzh maer Gomene\nUr porzh eus an henamzer zo bet bet diskoachet 'ba Taden\nStart eo bet match kentañ RC Gwened da geñver Kip Europa Challenge Cup: kollet 'neunt ar Vretoned 57 da 19 ouzh Harlequins Londrez.\nCamille Prigent zo kampionez Frañs Kaiak"
+   }
+  ]
+ },
+ "reportaj": {
+  "nom": "Keleier : Ar reportaj",
+  "episodes": [
+   {
+    "id": "9bcd32fd-7fd5-4241-a284-ac729468d417",
+    "titre": "E brezhoneg - Des réflexions à Locronan pour cultiver l'eau et nourrir la terre face aux défis climatiques",
+    "date": "2026-10-26T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/6e11a8aa-b080-4def-9204-84e463036e64/27164-26.10.2026-ITEMA_24726755-2026B51954S0299-NET_29A_7FD43ACD-AB74-4BD0-B00A-A62016B01BCF-21-cdad7c96a2c5f31edc07462bc809c38a.mp3",
+    "duree": 125,
+    "texte": "durée : 00:02:05  - Efedoù cheñchamant an hin a vez gwelet muioc'h-mui ha krenvoc'h-krenvañ int : dour-beuz, sec'hor, amzer tomm-gor, korventennoù... Met penaos digreskiñ o efedoù ha bevañ gwelloc'h gant an amzer o cheñch ? Setu ar preder a vez kaset e Lokorn. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
+    "id": "63ca9d7f-5bba-4a8e-8dd1-ef03c6cc3527",
+    "titre": "Keleier : Ar reportaj",
+    "date": "2026-10-25T06:32:00+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/555442f3-ff51-40a6-b1d4-1aa8a6534b22/27164-25.10.2026-ITEMA_24725623-2026B51954S0298-NET_29A_8FB67A40-7B56-404C-BE8E-EEE844F2F6DC-21-af9b5052a0a042da411d820aa25dfe9d.mp3",
+    "duree": 140,
+    "texte": "durée : 00:02:20 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
+    "id": "7c28b93c-e188-4fa6-9556-d0bc01310917",
+    "titre": "E brezhoneg - Aerlin, un lexique trilingue féministe et LGBTI+",
+    "date": "2026-10-24T05:32:00+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/cdbc20a3-f958-4447-ab2e-483b4d1e32ab/27164-24.10.2026-ITEMA_24724830-2026B51954S0297-NET_29A_8EAB43E2-55A5-4BB6-80C5-DDA759545719-21-791a8921b44a5435fb99813e5ed95544.mp3",
+    "duree": 123,
+    "texte": "durée : 00:02:03  - D'ar gwener 23 a viz Here eo bet embannet ar geriaoueg teiryezhek benelour ha LGDTE+ gant Aerlin. 900 ger e brezhoneg, galleg ha saozneg d'ober anv eus sekselezh, jener, anatomiezh pe c'hoazh korf. Ul labour a-stroll hag a vez dispaket war internet ivez. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   }
+  ]
+ }
+}
