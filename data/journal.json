@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-27T01:30:25.226612+00:00",
+ "maj": "2026-10-27T07:56:32.542491+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "0e0ae195-ff83-42a6-b44d-2c6889fd221c",
+    "titre": "E brezhoneg - Jañ-Maï Havard, chanteur de tradition orale de Bretagne est aussi chanteur lyrique",
+    "date": "2026-10-27T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/7c3cab2d-9e27-45c2-804e-c5d31dc3b86c/27164-27.10.2026-ITEMA_24728275-2026B51954S0300-NET_29A_726206D3-7F01-45B2-9D95-4F1D06E76B64-21-d8be8a14a23cfcbae8dc09ed25c88f51.mp3",
+    "duree": 118,
+    "texte": "durée : 00:01:58  - Div gordenn vouezh en deus ouzh e wareg. Jañ-Maï Havart, kaner hengoun dre gomz eus Breizh, zo kaner lirik ivez. Seniñ a raio Achile e La Belle Hélène gant Offenbach, e Trebeurden gant ar strollad Barbe Bleu, e fin miz Here ha penn-kentañ miz Du. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "9bcd32fd-7fd5-4241-a284-ac729468d417",
     "titre": "E brezhoneg - Des réflexions à Locronan pour cultiver l'eau et nourrir la terre face aux défis climatiques",
     "date": "2026-10-26T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/555442f3-ff51-40a6-b1d4-1aa8a6534b22/27164-25.10.2026-ITEMA_24725623-2026B51954S0298-NET_29A_8FB67A40-7B56-404C-BE8E-EEE844F2F6DC-21-af9b5052a0a042da411d820aa25dfe9d.mp3",
     "duree": 140,
     "texte": "durée : 00:02:20 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "7c28b93c-e188-4fa6-9556-d0bc01310917",
-    "titre": "E brezhoneg - Aerlin, un lexique trilingue féministe et LGBTI+",
-    "date": "2026-10-24T05:32:00+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/cdbc20a3-f958-4447-ab2e-483b4d1e32ab/27164-24.10.2026-ITEMA_24724830-2026B51954S0297-NET_29A_8EAB43E2-55A5-4BB6-80C5-DDA759545719-21-791a8921b44a5435fb99813e5ed95544.mp3",
-    "duree": 123,
-    "texte": "durée : 00:02:03  - D'ar gwener 23 a viz Here eo bet embannet ar geriaoueg teiryezhek benelour ha LGDTE+ gant Aerlin. 900 ger e brezhoneg, galleg ha saozneg d'ober anv eus sekselezh, jener, anatomiezh pe c'hoazh korf. Ul labour a-stroll hag a vez dispaket war internet ivez. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
