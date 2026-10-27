@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-27T07:56:32.542491+00:00",
+ "maj": "2026-10-27T14:35:02.843990+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84283",
+    "titre": "Keleier ar vro d'ar Meurzh 27 a viz Gouel-Mikael 2026",
+    "date": "2026-10-27T08:10:54+00:00",
+    "audio": "https://api.radios.bzh/assets/15685b7e-7208-417f-9539-1eee63a00c8d.mp3",
+    "duree": null,
+    "texte": "Kinniget eo bet an doereioù get Aodren Trehin rar mintin-man.\nAn diskar-amzer zo prantad ma c’heller bale er c’hoedoù ha dastum kistin, avaloù pe togoù-toseg.\nMet da ziwall a zo gete, anav mat anezhe a zo ret evit o serriñ ! Ar gresk emañ an entoksekadurioù ar blez-mañ hervez an Anses, ajañs surantez ar yec’hed, ar boued, an endro hag al labour. 700 entoksekadur a zo bet a-c’houde derroù miz Gwenholon, ha lod anezhe a zo liammet da implij an IA evit o anav.\nPadrig Drean a zo paotr an natur, ha pa vehe ar plantoù, al loened pe an togoù-touseg. Setu e soñj diàr implij an teknologiezhioù nevez evit anav an togoù-toseg, hag e alioù evit o zastum hep riskl.\nDek deiz 'zo e oa bet lidet àr an ton bras get klub US Konk-Kerne al labourioù a zo bet graet er stad mell-droad Guy Piriou.\nE fin ar bloavezhioù 80 e oa bet savet al lec'h, ha nebeud a labourioù a oa bet graet eno a-c’houde. Gellet a ra bremañ ar c'hleub hag a c'hoari e Lig 3, degemer krogadoù Lig 2. Kalz traoù ‘rall a zo bet gwelaet ivez, él ma tisplega Alan Troadeg, a laboura evit US Konk-Kerne.\nUn atersadenn get Metig Jakez-Vargas.\nDa glevet ivez:\n-Dilennadegoù kannaded a vo en Israel hiriv.\n-Kendalc'het e vo ar stourm get al liseidi daoust d'ar muzulioù embannet get ar gouarnamant.\n-Gwalldaol gouennelour Trappes: ar susped a zo bet lakaet en-dro edan ensell ar polis.\n-Daleet eo prosez muntr Cédric Chouviat get 3 foliser da miz Mezheven 2027.\n-Beuzet eo ar Samu 35 get ar pellgomzadennoù."
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84262",
     "titre": "Keleier ar vro d'al Lun 26 a viz-Here 2026",
@@ -64,14 +72,6 @@
     "audio": "https://api.radios.bzh/assets/747533a2-56da-4db9-81ac-3d5e7e6985d0.mp3",
     "duree": null,
     "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nSavet eo an AMF a-enep d'ar feulster er manifestadegoù.\nDec'h da greisteiz e oa en em vodet tud dirak ti-kêr Plougastel-Daoulas, da selaou o maer Dominique Cap o lenn un destenn bet skrivet gant an AMF (Association des Maires de France). Disklêrian a ra ar gevredigezh ar violañsoù a oa bet disadorn ha disul, da-heul ar manifestadegoù.\nUr reportaj gant Erwan Blanchard.\nTregont vloaz eo Emglev Bro Douarnenez !\nLidet e oa bet tregont vloaz Emglev Bro Douarnenez disadorn. Krouet Selaouomp Elen Rubin, bet prezidantez ar gevredigezh pemzek vloaz 'zo, o kontañ deus istor an Emglev ; Bleuenn Raynaudon-Kerzhero ha Thomas Moysan Simon, kenprezidanted ar gevredigezh.\nUr reportaj gant Metig Jakez-Vargas.\nHa da glevet ivez :\nTan bras zo en Eñdonezi.\nStad an Alberta a garfe en em zistagañ diouzh ar C'hanada.\nSébastien Lecornu en deus roet da c'hoût e vo sikouret ar goñversañted bet dismerret o stalioù dezho.\nNeveshaet e vo Parcoursup.\nUn aksidant zo bet e brasañ uzin dour Breizh e Ferel."
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84106",
-    "titre": "Keleier ar vro d'al Lun 19 a viz Here 2026",
-    "date": "2026-10-19T07:08:13+00:00",
-    "audio": "https://api.radios.bzh/assets/9589cefc-9c92-4a6a-b587-c62c81209926.mp3",
-    "duree": null,
-    "texte": "Embannet eo bet ar c'heleier gant Erwan Blanchard\nManifestadegoù bras zo bet 'ba Breizh disadorn!\nTost 5000 a dud a oa en em vodet e straedoù Kemper disadorn mintin. Mesk ha mesk e oa liseidi, jiletennoù melen ha tud aet skuizh gant koust ar vuhez ha torr ar servijoù publik. Kalz tud yaouank a oa, startijenn gante, ambrouget gant ar sindikadoù Solidaire, FO hag ar CNT. Tapet o doa al liseidi ar gaoz e penn kentañ ar vanifestadeg, evit burutellañ ar feulsterioù polis bet gouzañvet gante ar sizhun dremenet. Burutellet o deus ivez kerent liseidi Brizeux o doa klasket terriñ o luskad hag ar blokus ar sizhun dremenet. An enepgouenelouriezh pe c'hoazh gwirioù an dud treuzjener a zo bet lakaet war wel ivez e-pad ar prezegennoù, a-raok ma loc'hfe ar vanifestadeg, kaset gant tonioù ar fanfar. Metig Jakez-Vargas a oa war blas...\nKevre Diwan zo di-brezidant!\nEmañ ar prezidantez, Anne-Sophie Brats é tihan disklêrian e tileza he fost. Adal dilun e vo achiv he resped ha dalc’het vo un tolpadeg dimeurzh evit dilenn unan bennak nevez e penn rouedad ar skolioù dre soubidigezh. Mar faota deoc’h degas ho nerzh da Ziwan, kerzhit e darempred get tud ar rouedad ar fonnaplan ar gwellan. Asantet he deus Anne-Sophie Brats displegañ deomp abegoù he dilez. Emañ gant Aodren Trehin.\nVotet eo bet adkempenn ar Sage-Gwilen\nDigwener beure e oa bet votet azgweladur ar SAGE Gwilen. Ampellaet e oa bet ar vot bloaz zo, d’an 11 a viz Kerdu 2025 blam da labourerien douar an FNSEA pe KBSLD hag al labourerien douar Yaouank o doa manifestet e Kastell-bourc’h. Ar wech-mañ e oa bodet Bodad Lec’hel an Dour e Sant-Yust e Bro-Redon. Tro kant den, sindikalourien Kengevread ar Beizanted ha stourmerien ekologour anezho a oa deuet da souten vot azgweladur ar SAGE. Deus an tu all e oa tro daou ugent sindikalour deus ar C’HBSLD hag al Labourerien Douar Yaouank. Niverus e oa an archerien ivez a oa deuet deus Roazhon ha Redon. Diwar 63 den o deus votet e Bodad labour an Dour eo 45 dioñte o deus votet evit an azgweladur ha 18 a enep. Keloù mat eo evit Jean-Michel Sanner ezel deus Dour ha Stêrioù Breizh. Emañ gant Anton Burel.\nHa da selaou ouzhpenn 'bar c'heleier:\n20 000 a dud 'ba Brest 'noant manifestet, laouen, disadorn!\nKann zo bet 'ba Brest, Roazhon an Naoned ha 'ba meur a c'hêr e fin ar manifestadegoù...\nJoelle Dimbo 'neus dougenet klemm ouzh maer Gomene\nUr porzh eus an henamzer zo bet bet diskoachet 'ba Taden\nStart eo bet match kentañ RC Gwened da geñver Kip Europa Challenge Cup: kollet 'neunt ar Vretoned 57 da 19 ouzh Harlequins Londrez.\nCamille Prigent zo kampionez Frañs Kaiak"
    }
   ]
  },
