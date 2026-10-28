@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-28T01:26:13.294689+00:00",
+ "maj": "2026-10-28T08:38:26.053566+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84303",
+    "titre": "Keleier ar vro d'ar Merc'her 28 a-viz Here",
+    "date": "2026-10-28T07:31:36+00:00",
+    "audio": "https://api.radios.bzh/assets/2cc482a5-55bf-4442-a655-a8857cca1b0f.mp3",
+    "duree": null,
+    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nLevrig Yes Breizh a zo bet embannet en-dro.\nHiraet eo bet listenn kinnigoù Yes Breizh evit ar vro gant an eil embann-mañ. Goulenn a ra ar strollad ma vo roet muioc'h a c'halloud d'ar vro, un tamm memes-mod evel e Bro-Gembre lakaomp. Met petra cheñchfe an dra-se evit an dud amañ ? Alan Kloareg, mouezh aotreet Yes Breizh, en deus respontet deomp.\nUn atersadenn gant Benjamin Bouard\nChampionad Frañs ar Go.\nE fin ar sizhun baseet e oa dalc'het championad Frañs ar go, ur c'hoari stratejek eus broioù Azia ar Reter. Degemeret eo bet gant Rengo, kleub go Roazhon, unan eus brasañ kleuboù ar vro. Muioc'h da glevet gant bezprezidant ar c'hleub, Victor Blanchard.\nUn atersadenn gant Anton Burel\nHa da glevet er c'heleier ivez :\nVotateg en Israël dec'h, galvet an dud da zibab o deputeed\nAfer Epstein : tamallet 'zo da Donald Trump bezañ forset pemp plac'h\nSavet 'zo bec'h etre gouarnamant Pekin ha Kylian Mbappé\nTri miliard a eurioù a gousto d'ar c'hoñversoù bet dismantret da-heul ar manifestadegoù\n34% eus ar skolidi CE2, CM1 ha CM2 a vefe bet gwazh eus violañsoù seksel er skol e Frañs."
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84283",
     "titre": "Keleier ar vro d'ar Meurzh 27 a viz Gouel-Mikael 2026",
@@ -64,20 +72,20 @@
     "audio": "https://api.radios.bzh/assets/9388c30d-bf2b-4822-96bf-e497d4748f81.mp3",
     "duree": null,
     "texte": "Kinniget eo bet an doereioù get Aodren Trehin ar mintin-mañ\nTammigoù douar bihan tout eo Inizi Houat ha Hedig !\n9 skolajiad a zo hepken e skolaj Houat a voda krennarded an div enezenn. Peseurt sell o deus àr ar fed bevañ àr un enezenn vihan, peseurt c’hoantoù, diaesamantoù, ha spioù a zo gete? Penaos e wellont an dazont àr o ziariad ? Setu goulennoù zo bet savet dezhe e korf ur studiadenn ‘zo bet kaset etre 2023-2026. \nJulien Torchin a zo enklaskour ha kelennour ar geografiezh e skol-veur Roazhon 2. Penaos en deus kaset an enklask-se da benn get e genseurted Solène Godin ha Brieuc Bisson, ha peseurt disoc’hoù zo daet diàr wel ? Respont geton doc'h mikro Aodren Trehin.\nAn diskouezadeg a zo bet savet diàr ar studiadenn a oa da welet e Houat e-pad an hañv hag e Hedig emañ bremañ betek miz Kalañ-gouianv e mediaoueg ar semafor. Ar studiadenn glok a vo da lenn edan berr er gazetenn Melvan, la revue des deux îles.\nEdan statud « takad get un enkadenn sec’hor » emañ departamant Penn-ar-Bed a-c’houde miz Eost.\nUn diouver a zour ‘zo kaoz. Mizioù zo ‘neus ket bet glaveier bras ‘ba Breizh ha aet eo neuze live an dour ‘bar stêrioù ha ‘bal lennoù àr zisteraat.\nHervez ar BRGM (Bureau des recherches géologiques et minières) eo ar bras ag al lenneier a zo re izel o live. Setu ar pezh a zegouezha e Kommanna e lec’h m’emañ lenn an Drenneg. Ne chom ket meit un drederenn ag an dour a c’hella bout dalc’het enni. 300 000 a dud d’an nebeutañ a zo liammet d’ar rouedad dour a zo stag da lenn an Drenneg. Ha n’eo ket get ar pennadoù berr get glav a zo bet e miz Gouel-Mikael eo bet cheñchet an traoù él ma tisplega Fulup Plouzane, maer Kommanna.\nFulup Plouzane a oa get Erwan Blanchard.\nDa glevet ivez en doereioù:\n-Nac'het n'eus proviñs an Alberta aozin ur referedun evit choej bout dizalc'h doc'h ar C'hanada. \n-Ouzhpenn an hanter a pennoù bras an RN a zo tamallet dezhe get ar media Bon pote gouennelouriezh pe enep-yuzeviezh.\n-Rima Hassan, kannadez euopean skritell LFI geti, a zo dirak ar justis evit meuleudi ar sponterezh enep-yuzev.\n-An ONG ICAW a c’houlenna get gourc’hmac’hadoù Bro Frañs diwall doc'h an drougoù gouzañvet get ar chevred. \n-Kendalc’hiñ a ra al luskad sokial evit kondisionoù studi al liseidi ha priz ar vuhez."
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84145",
-    "titre": "Keleier ar vro d'ar Meurzh 20 a viz-Here 2026",
-    "date": "2026-10-20T07:06:42+00:00",
-    "audio": "https://api.radios.bzh/assets/747533a2-56da-4db9-81ac-3d5e7e6985d0.mp3",
-    "duree": null,
-    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nSavet eo an AMF a-enep d'ar feulster er manifestadegoù.\nDec'h da greisteiz e oa en em vodet tud dirak ti-kêr Plougastel-Daoulas, da selaou o maer Dominique Cap o lenn un destenn bet skrivet gant an AMF (Association des Maires de France). Disklêrian a ra ar gevredigezh ar violañsoù a oa bet disadorn ha disul, da-heul ar manifestadegoù.\nUr reportaj gant Erwan Blanchard.\nTregont vloaz eo Emglev Bro Douarnenez !\nLidet e oa bet tregont vloaz Emglev Bro Douarnenez disadorn. Krouet Selaouomp Elen Rubin, bet prezidantez ar gevredigezh pemzek vloaz 'zo, o kontañ deus istor an Emglev ; Bleuenn Raynaudon-Kerzhero ha Thomas Moysan Simon, kenprezidanted ar gevredigezh.\nUr reportaj gant Metig Jakez-Vargas.\nHa da glevet ivez :\nTan bras zo en Eñdonezi.\nStad an Alberta a garfe en em zistagañ diouzh ar C'hanada.\nSébastien Lecornu en deus roet da c'hoût e vo sikouret ar goñversañted bet dismerret o stalioù dezho.\nNeveshaet e vo Parcoursup.\nUn aksidant zo bet e brasañ uzin dour Breizh e Ferel."
    }
   ]
  },
  "reportaj": {
   "nom": "Keleier : Ar reportaj",
   "episodes": [
+   {
+    "id": "f5b48cea-53c4-4836-855b-b90c6b94f38d",
+    "titre": "Keleier : Ar reportaj",
+    "date": "2026-10-28T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/489ce866-3237-4b9d-b53c-6109e5a02b40/27164-28.10.2026-ITEMA_24729697-2026B51954S0301-NET_29A_868D0356-3A79-4F7F-AD5C-188E9737D2B6-21-fef13f5e3d014502ecc931b614739d83.mp3",
+    "duree": 117,
+    "texte": "durée : 00:01:57 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
    {
     "id": "0e0ae195-ff83-42a6-b44d-2c6889fd221c",
     "titre": "E brezhoneg - Jañ-Maï Havard, chanteur de tradition orale de Bretagne est aussi chanteur lyrique",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/6e11a8aa-b080-4def-9204-84e463036e64/27164-26.10.2026-ITEMA_24726755-2026B51954S0299-NET_29A_7FD43ACD-AB74-4BD0-B00A-A62016B01BCF-21-cdad7c96a2c5f31edc07462bc809c38a.mp3",
     "duree": 125,
     "texte": "durée : 00:02:05  - Efedoù cheñchamant an hin a vez gwelet muioc'h-mui ha krenvoc'h-krenvañ int : dour-beuz, sec'hor, amzer tomm-gor, korventennoù... Met penaos digreskiñ o efedoù ha bevañ gwelloc'h gant an amzer o cheñch ? Setu ar preder a vez kaset e Lokorn. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "63ca9d7f-5bba-4a8e-8dd1-ef03c6cc3527",
-    "titre": "Keleier : Ar reportaj",
-    "date": "2026-10-25T06:32:00+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/555442f3-ff51-40a6-b1d4-1aa8a6534b22/27164-25.10.2026-ITEMA_24725623-2026B51954S0298-NET_29A_8FB67A40-7B56-404C-BE8E-EEE844F2F6DC-21-af9b5052a0a042da411d820aa25dfe9d.mp3",
-    "duree": 140,
-    "texte": "durée : 00:02:20 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
