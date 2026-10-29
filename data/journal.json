@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-29T05:53:34.978763+00:00",
+ "maj": "2026-10-29T13:09:30.794776+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84318",
+    "titre": "Keleier ar vro d'ar Yaou 29 a viz Here 2026",
+    "date": "2026-10-29T08:35:48+00:00",
+    "audio": "https://api.radios.bzh/assets/261f25ca-a982-483e-a3fc-8e6bc0f4c81d.mp3",
+    "duree": null,
+    "texte": "Kinniget eo bet ar c'heleier ar mintin-mañ gant Metig Jakez-Vargas\nDivrezhonekaet eo bet skol Koad Edern e Plouzane\nE Plouzane, ur gumun vihan e kichen Brest, he deus sinet live 2 er garta « Ya d’ar brezhoneg », eo bet cheñchet anv ur skol. Aet eo Koat Edern da Rosa Bonheur. Choazet e oa bet an anv nevez dre referendum warlene get tud ar skolidi, ar gelennerien ha gopridi ar skol. Selaouomp Andre Rivoallon, prezidant ar gevredigezh Brezhoneg e Plouzane ! Mil a bouez eo hervezañ mirout anvioù al lec’hioù evit deskiñ o istor.\nNe vo ket deus festival ar Mondial Folk e Plozeved ken.\nSetu ar pezh zo bet embannet gant an aozerien ar miz-mañ. Krouet e oa bet ar gouel-se hanter-kant bloaz zo. Anvet e oa da gentañ Gouel ar Binioù, bagadoù ha kelc'hioù keltiek ar vro a oa laket war wel da gentañ. Ledanaet eo bet da c'houde e 1983, o pediñ pobloù deus ar bed a-bezh da ziskouez o dañsoù ha sonerezh hengounel. Hag e 1997 eo cheñchet anv ar gouel ha deuet da vezañ ar Mondial Folk. 20 000 a dud a zechase ar gouel bep bloaz er gumun betek ar c'hovid. Ha kouezhet eo an traoù d'an traoñ tamm ha tamm da c'houde, 'vel ma tispleg Bernez Kere, kuzulier-kêr e Plozeved.\nHa da glevet ivez er c'heleier : \n- Marvet zo 64 den dec'h en ur gwallzarvoud tren spontus e bro Spagn\n- Tec'het kuit deus bro Brazil eo Flavio Bolsonaro dimeurzh\n- Aet eo ar muiañ niver gant al Likoud, strollad Benyamin Netanyaou, en dilennadegoù kannaded e bro Israel\n- Harz-labour a vo graet gant an darn vrasañ eus an dockerien e Breizh warc'hoaz\n- Ur vodadeg enepfaskour a vo e Brest fenoz\n- Pep ti e Breizh a rankfe kaout tredan adarre hiziv e Penn-ar-Bed"
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84303",
     "titre": "Keleier ar vro d'ar Merc'her 28 a-viz Here",
@@ -64,14 +72,6 @@
     "audio": "https://api.radios.bzh/assets/a3d9689f-9e57-4f22-b9e0-ea3259f239b5.mp3",
     "duree": null,
     "texte": "Kinniget eo bet ar c'heleier ar mintin-mañ gant Metig Jakez-Vargas\nDaoust hag erruet eo an 3000 den ouzhpenn a oa bet prometet en deskadurezh-stad ?\nUnan deus respontoù pleustrek pennañ ar gouarnamant da enkadenn al liseoù a oa kinnig tri mil kelenner ouzhpenn lec’h ma zo ar mankoù brasañ, hervez pezh noa embannet Edouard Geffray, ministr an deskadurezh stad, d’an 8 a viz Here. Penaos eo tremenet an traoù war an dachenn ? Selaouomp diouzhtu Marina Nedeleg kelennerez war an istor douaroniezh e lise Jean Macé e Roazhon ha sindikalourez b’ar SNES-FSU...\nManifestadeg a-enep d'ar panelloù-heol er parkeier e Rostrenn\nSavet ez eus bec'h e Rostrenn abaoe penn-kentañ ar bloaz, pa oa bet roet da c'hoût e vefe savet pannelloù fotovoltaek e Megoed. Goulenn a ra maer ar gumun hag ar strollad WAT, \"War an Toennoù\", ma vo dalc'het an tachennoù-se evit al labour-douar. Un enklask publik a oa bet kaset da benn goude-se eus Miz-Even da viz-Gouere, evit goulenn o ali gant an dud. Met a-benn ar fin, ar prefed en deus roet koñje da sevel ar parkad pannelloù-se. Disadorn tremenet e oa en em vodet tud ar c'holektif War an Toennoù da enebiñ ur wech all c'hoazh ouzh ar raktres-mañ. Selaouomp Etienne Cabaret, zo ezel deus ar strollad.\nHa da glevet ivez er c'heleier : \n- Kreskiñ a raio an temperadur bedel eus 2,6 derez 'benn fin ar c'hantved\n- Manifestadegoù nevez a zo raktreset e Frañs disadorn a-enep da goust ar vuhez\n- Muzulioù ispisial zo bet tapet gant prefed Penn-ar-Bed dec'h\n- Neofaskourien o doa manifestet e Lyon dilun noz daoust d'ar c'heulfe\n- Votet en deus ar parlamant a unvouezh dimeurzh evit ma vo freuzet ar « C'hod Du »\n- Kreñv e c'hwezho an avel fenoz"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84176",
-    "titre": "Keleier ar vro d'ar Merc'her 21 a viz Gouel-Mikael 2026",
-    "date": "2026-10-21T07:08:52+00:00",
-    "audio": "https://api.radios.bzh/assets/9388c30d-bf2b-4822-96bf-e497d4748f81.mp3",
-    "duree": null,
-    "texte": "Kinniget eo bet an doereioù get Aodren Trehin ar mintin-mañ\nTammigoù douar bihan tout eo Inizi Houat ha Hedig !\n9 skolajiad a zo hepken e skolaj Houat a voda krennarded an div enezenn. Peseurt sell o deus àr ar fed bevañ àr un enezenn vihan, peseurt c’hoantoù, diaesamantoù, ha spioù a zo gete? Penaos e wellont an dazont àr o ziariad ? Setu goulennoù zo bet savet dezhe e korf ur studiadenn ‘zo bet kaset etre 2023-2026. \nJulien Torchin a zo enklaskour ha kelennour ar geografiezh e skol-veur Roazhon 2. Penaos en deus kaset an enklask-se da benn get e genseurted Solène Godin ha Brieuc Bisson, ha peseurt disoc’hoù zo daet diàr wel ? Respont geton doc'h mikro Aodren Trehin.\nAn diskouezadeg a zo bet savet diàr ar studiadenn a oa da welet e Houat e-pad an hañv hag e Hedig emañ bremañ betek miz Kalañ-gouianv e mediaoueg ar semafor. Ar studiadenn glok a vo da lenn edan berr er gazetenn Melvan, la revue des deux îles.\nEdan statud « takad get un enkadenn sec’hor » emañ departamant Penn-ar-Bed a-c’houde miz Eost.\nUn diouver a zour ‘zo kaoz. Mizioù zo ‘neus ket bet glaveier bras ‘ba Breizh ha aet eo neuze live an dour ‘bar stêrioù ha ‘bal lennoù àr zisteraat.\nHervez ar BRGM (Bureau des recherches géologiques et minières) eo ar bras ag al lenneier a zo re izel o live. Setu ar pezh a zegouezha e Kommanna e lec’h m’emañ lenn an Drenneg. Ne chom ket meit un drederenn ag an dour a c’hella bout dalc’het enni. 300 000 a dud d’an nebeutañ a zo liammet d’ar rouedad dour a zo stag da lenn an Drenneg. Ha n’eo ket get ar pennadoù berr get glav a zo bet e miz Gouel-Mikael eo bet cheñchet an traoù él ma tisplega Fulup Plouzane, maer Kommanna.\nFulup Plouzane a oa get Erwan Blanchard.\nDa glevet ivez en doereioù:\n-Nac'het n'eus proviñs an Alberta aozin ur referedun evit choej bout dizalc'h doc'h ar C'hanada. \n-Ouzhpenn an hanter a pennoù bras an RN a zo tamallet dezhe get ar media Bon pote gouennelouriezh pe enep-yuzeviezh.\n-Rima Hassan, kannadez euopean skritell LFI geti, a zo dirak ar justis evit meuleudi ar sponterezh enep-yuzev.\n-An ONG ICAW a c’houlenna get gourc’hmac’hadoù Bro Frañs diwall doc'h an drougoù gouzañvet get ar chevred. \n-Kendalc’hiñ a ra al luskad sokial evit kondisionoù studi al liseidi ha priz ar vuhez."
    }
   ]
  },
@@ -79,12 +79,20 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
-    "id": "f5b48cea-53c4-4836-855b-b90c6b94f38d",
+    "id": "86c4f386-cc85-4a4b-a067-db48ed8eceeb",
     "titre": "Keleier : Ar reportaj",
+    "date": "2026-10-29T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/a06f1f4f-97e2-43c0-b629-f92209739a9b/27164-29.10.2026-ITEMA_24731121-2026B51954S0302-NET_29A_D3CFD44C-43AB-4660-8253-3E5875FFF4F5-21-0cc2a49391586eb3de7ba51c9b7437e4.mp3",
+    "duree": 131,
+    "texte": "durée : 00:02:11 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
+    "id": "f5b48cea-53c4-4836-855b-b90c6b94f38d",
+    "titre": "E brezhoneg - Un escape game pour enfants dédié à Samain, l'Halloween celte, créé spécialement pour des quimpérois",
     "date": "2026-10-28T05:35:30+00:00",
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/489ce866-3237-4b9d-b53c-6109e5a02b40/27164-28.10.2026-ITEMA_24729697-2026B51954S0301-NET_29A_868D0356-3A79-4F7F-AD5C-188E9737D2B6-21-fef13f5e3d014502ecc931b614739d83.mp3",
     "duree": 117,
-    "texte": "durée : 00:01:57 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+    "texte": "durée : 00:01:57  - Gouel Samain zo o tont ! A-benn fin ar sizhun e vo lidet fin an hañv ha penn-kentañ ar bloavezh nevez da geñver hengoun ar gelted. Pa 'vez lidet an Hollsent, hag Halloween war ar memes tro, gant an holl bremañ. Ur c'hoari achap zo bet krouet evit un abadenn e Ti ar vro Kemper. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    },
    {
     "id": "0e0ae195-ff83-42a6-b44d-2c6889fd221c",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/7c3cab2d-9e27-45c2-804e-c5d31dc3b86c/27164-27.10.2026-ITEMA_24728275-2026B51954S0300-NET_29A_726206D3-7F01-45B2-9D95-4F1D06E76B64-21-d8be8a14a23cfcbae8dc09ed25c88f51.mp3",
     "duree": 118,
     "texte": "durée : 00:01:58  - Div gordenn vouezh en deus ouzh e wareg. Jañ-Maï Havart, kaner hengoun dre gomz eus Breizh, zo kaner lirik ivez. Seniñ a raio Achile e La Belle Hélène gant Offenbach, e Trebeurden gant ar strollad Barbe Bleu, e fin miz Here ha penn-kentañ miz Du. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "9bcd32fd-7fd5-4241-a284-ac729468d417",
-    "titre": "E brezhoneg - Des réflexions à Locronan pour cultiver l'eau et nourrir la terre face aux défis climatiques",
-    "date": "2026-10-26T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/6e11a8aa-b080-4def-9204-84e463036e64/27164-26.10.2026-ITEMA_24726755-2026B51954S0299-NET_29A_7FD43ACD-AB74-4BD0-B00A-A62016B01BCF-21-cdad7c96a2c5f31edc07462bc809c38a.mp3",
-    "duree": 125,
-    "texte": "durée : 00:02:05  - Efedoù cheñchamant an hin a vez gwelet muioc'h-mui ha krenvoc'h-krenvañ int : dour-beuz, sec'hor, amzer tomm-gor, korventennoù... Met penaos digreskiñ o efedoù ha bevañ gwelloc'h gant an amzer o cheñch ? Setu ar preder a vez kaset e Lokorn. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
