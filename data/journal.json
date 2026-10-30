@@ -1,5 +1,5 @@
 {
- "maj": "2026-10-29T23:57:44.162458+00:00",
+ "maj": "2026-10-30T05:54:52.759735+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "da9a6be2-2769-4a0b-89b6-c1119784f31a",
+    "titre": "E brezhoneg - Plus de 3 000 personnes attendues ce dimanche au troc et puces de l'école Diwan Kemper",
+    "date": "2026-10-30T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/bb046718-e038-4102-b6a4-fb650624d0aa/27164-30.10.2026-ITEMA_24732597-2026B51954S0303-NET_29A_40E4A3A5-630D-4E6E-9445-2B6BE7F255C2-21-95fde66d0edd71f1ef9c942d2fa71c55.mp3",
+    "duree": 114,
+    "texte": "durée : 00:01:54  - Ur mor a dud zo gortozet e foar al laoù Diwan Kemper en dibenn-sizhun mañ. D'ar Sul 1añ a viz Du e vo ouzhpenn 200 den hag a werzho traoù eil dorn a-bep seurt, e tachenn an diskouezadegoù. 4 100 a dud 'oa deuet war lene, ur rekord. Peadra da gas arc'hant d'ar skol dre soubidigezh. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "86c4f386-cc85-4a4b-a067-db48ed8eceeb",
     "titre": "Keleier : Ar reportaj",
     "date": "2026-10-29T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/489ce866-3237-4b9d-b53c-6109e5a02b40/27164-28.10.2026-ITEMA_24729697-2026B51954S0301-NET_29A_868D0356-3A79-4F7F-AD5C-188E9737D2B6-21-fef13f5e3d014502ecc931b614739d83.mp3",
     "duree": 117,
     "texte": "durée : 00:01:57  - Gouel Samain zo o tont ! A-benn fin ar sizhun e vo lidet fin an hañv ha penn-kentañ ar bloavezh nevez da geñver hengoun ar gelted. Pa 'vez lidet an Hollsent, hag Halloween war ar memes tro, gant an holl bremañ. Ur c'hoari achap zo bet krouet evit un abadenn e Ti ar vro Kemper. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "0e0ae195-ff83-42a6-b44d-2c6889fd221c",
-    "titre": "E brezhoneg - Jañ-Maï Havard, chanteur de tradition orale de Bretagne est aussi chanteur lyrique",
-    "date": "2026-10-27T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/7c3cab2d-9e27-45c2-804e-c5d31dc3b86c/27164-27.10.2026-ITEMA_24728275-2026B51954S0300-NET_29A_726206D3-7F01-45B2-9D95-4F1D06E76B64-21-d8be8a14a23cfcbae8dc09ed25c88f51.mp3",
-    "duree": 118,
-    "texte": "durée : 00:01:58  - Div gordenn vouezh en deus ouzh e wareg. Jañ-Maï Havart, kaner hengoun dre gomz eus Breizh, zo kaner lirik ivez. Seniñ a raio Achile e La Belle Hélène gant Offenbach, e Trebeurden gant ar strollad Barbe Bleu, e fin miz Here ha penn-kentañ miz Du. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
