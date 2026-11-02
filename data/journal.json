@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-01T23:39:10.021853+00:00",
+ "maj": "2026-11-02T06:15:41.185683+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "46c6d9ed-b4e3-401d-a105-ef8081000407",
+    "titre": "E brezhoneg - Rentrée bouleversée au collège Diwan de Guissény après la destruction du toit par la tempête Austen",
+    "date": "2026-11-02T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/5072e3a0-dcb5-41ca-a09c-edd4b8645cf9/27164-02.11.2026-ITEMA_24735721-2026B51954S0306-NET_29A_DCA4C708-363C-417C-A0E7-3E00DF4270A1-21-10a97bc83925975e148e6d7669f8ad30.mp3",
+    "duree": 122,
+    "texte": "durée : 00:02:02  - Un distro-skol dic'hortoz eo e skolaj Diwan Gwiseni d'al Lun 2 a viz Du goude vakañsoù an Hollsent. Rak e oa aet an doenn da nijal 10 deiz 'zo pa 'oa bet ar gorventenn Austen. Ar pezh 'oa c'hoarvezet tri bloaz 'zo rik dija, da vare barr-amzer Ciaran. Met degemeret 'vo an holl skolajidi memes tra. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "d5c4c768-4415-4419-b1b8-4f3519113792",
     "titre": "E brezhoneg – Ce jeune skipper, qui compte deux transat, va suivre de près la centaine de bateaux de la route du Rhum",
     "date": "2026-11-01T06:32:00+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/bb046718-e038-4102-b6a4-fb650624d0aa/27164-30.10.2026-ITEMA_24732597-2026B51954S0303-NET_29A_40E4A3A5-630D-4E6E-9445-2B6BE7F255C2-21-95fde66d0edd71f1ef9c942d2fa71c55.mp3",
     "duree": 114,
     "texte": "durée : 00:01:54  - Ur mor a dud zo gortozet e foar al laoù Diwan Kemper en dibenn-sizhun mañ. D'ar Sul 1añ a viz Du e vo ouzhpenn 200 den hag a werzho traoù eil dorn a-bep seurt, e tachenn an diskouezadegoù. 4 100 a dud 'oa deuet war lene, ur rekord. Peadra da gas arc'hant d'ar skol dre soubidigezh. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "86c4f386-cc85-4a4b-a067-db48ed8eceeb",
-    "titre": "E brezhoneg – Dernière ligne droite pour les candidats à l'organisation du départ de la prochaine Redadeg",
-    "date": "2026-10-29T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/a06f1f4f-97e2-43c0-b629-f92209739a9b/27164-29.10.2026-ITEMA_24731121-2026B51954S0302-NET_29A_D3CFD44C-43AB-4660-8253-3E5875FFF4F5-21-0cc2a49391586eb3de7ba51c9b7437e4.mp3",
-    "duree": 131,
-    "texte": "durée : 00:02:11  - Poent bras eo lakaat e anv da vezañ war ar renk a-benn degemer loc'hañ ar Redadeg a zeu. Betek ar Gwener 30 a viz Here ez eus tu d'ar c'hevredigezhioù da gas un doser d'an aozerien. D'ar Gwener 28 a viz Ebrel 2028 e loc'ho ar Redadeg, pa 'vo lidet he 20 vloaz. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
