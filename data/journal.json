@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-02T23:37:25.813921+00:00",
+ "maj": "2026-11-03T06:54:15.182441+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "ffb20593-2707-408c-8873-1a69beb78575",
+    "titre": "E brezhoneg - Blocage filtrant au lycée de Cornouaille à Quimper",
+    "date": "2026-11-03T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/6106b5ef-186b-4748-9819-e461bdddba44/27164-03.11.2026-ITEMA_24736343-2026B51954S0307-NET_29A_3E79FB52-66DB-4B6E-91F8-7B7D645F89E1-21-89339dcf00ab6bfdbb1c8caf230c8fa8.mp3",
+    "duree": 116,
+    "texte": "durée : 00:01:56  - N'eo ket bet mouget mouezhioù al liseidi gant ar vakañsoù-skol. E lise Kerne e Kemper da-skouer o deus ur c'hantad skolidi stanket ar savadur diouzh ar mintin, d'al lun 2 a viz Du, o lezel mont-tre memestra ar re a felle dezho heuliañ ar c'hentelioù. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "46c6d9ed-b4e3-401d-a105-ef8081000407",
     "titre": "E brezhoneg - Rentrée bouleversée au collège Diwan de Guissény après la destruction du toit par la tempête Austen",
     "date": "2026-11-02T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/dd819d00-9859-46ba-adda-e9fbe922976e/27164-01.11.2026-ITEMA_24734525-2026B51954S0305-NET_29A_B1798E0D-17CB-4397-B7BF-92E2F9C4E44A-21-61c8a9dcef2493db6e2f7b74edf49275.mp3",
     "duree": 109,
     "texte": "durée : 00:01:49  - 115 bag a gemero perzh e Hent ar rom a loc'ho eus Sant-Maloù d'ar Sul 1añ a viz Du da 1 eur 02 rik goude-merenn. Ar redadeg treuzatlantel budetañ 'vez dalc'het bep pevar bloaz. Ha Thomas André, ar skiper yaouank div wech kampion ar bed, zo o vont da heuliañ ar vartoloded a-dost. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "da9a6be2-2769-4a0b-89b6-c1119784f31a",
-    "titre": "E brezhoneg - Plus de 3 000 personnes attendues ce dimanche au troc et puces de l'école Diwan Kemper",
-    "date": "2026-10-30T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/bb046718-e038-4102-b6a4-fb650624d0aa/27164-30.10.2026-ITEMA_24732597-2026B51954S0303-NET_29A_40E4A3A5-630D-4E6E-9445-2B6BE7F255C2-21-95fde66d0edd71f1ef9c942d2fa71c55.mp3",
-    "duree": 114,
-    "texte": "durée : 00:01:54  - Ur mor a dud zo gortozet e foar al laoù Diwan Kemper en dibenn-sizhun mañ. D'ar Sul 1añ a viz Du e vo ouzhpenn 200 den hag a werzho traoù eil dorn a-bep seurt, e tachenn an diskouezadegoù. 4 100 a dud 'oa deuet war lene, ur rekord. Peadra da gas arc'hant d'ar skol dre soubidigezh. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
