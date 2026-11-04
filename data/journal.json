@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-03T23:27:20.160634+00:00",
+ "maj": "2026-11-04T06:32:31.949567+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "8d3db735-4afc-426a-8f32-80bf191fd498",
+    "titre": "E brezhoneg - Sécheresse : pas de plan Orsec déclenché dans le Finsitère pour l'instant, mais la crise continue",
+    "date": "2026-11-04T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/b9103433-4051-4b1d-8450-2dafbe5558b9/27164-04.11.2026-ITEMA_24737765-2026B51954S0308-NET_29A_4E16BF78-0A55-483F-A8DA-FAE72682B4AF-21-86c6b7c6a4e424aaeb8c4e614036790e.mp3",
+    "duree": 133,
+    "texte": "durée : 00:02:13  - Ne vo ket lakaet e pleustr ar steuñv Orsec e Penn ar Bed e miz Du, daoust m'emañ tenn stad an dour. Dindan enkadenn sec'hor e chom lakaet an departamant, evel m'emañ abaoe tost tri miz bremañ. Met a-drugarez d'ar barradoù glav zo bet e miz Here ez eus bet daleet muzulioù strizhoc'h evit poent. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "ffb20593-2707-408c-8873-1a69beb78575",
     "titre": "E brezhoneg - Blocage filtrant au lycée de Cornouaille à Quimper",
     "date": "2026-11-03T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/5072e3a0-dcb5-41ca-a09c-edd4b8645cf9/27164-02.11.2026-ITEMA_24735721-2026B51954S0306-NET_29A_DCA4C708-363C-417C-A0E7-3E00DF4270A1-21-10a97bc83925975e148e6d7669f8ad30.mp3",
     "duree": 122,
     "texte": "durée : 00:02:02  - Un distro-skol dic'hortoz eo e skolaj Diwan Gwiseni d'al Lun 2 a viz Du goude vakañsoù an Hollsent. Rak e oa aet an doenn da nijal 10 deiz 'zo pa 'oa bet ar gorventenn Austen. Ar pezh 'oa c'hoarvezet tri bloaz 'zo rik dija, da vare barr-amzer Ciaran. Met degemeret 'vo an holl skolajidi memes tra. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "d5c4c768-4415-4419-b1b8-4f3519113792",
-    "titre": "E brezhoneg – Ce jeune skipper, qui compte deux transats, va suivre de près la centaine de bateaux de la route du Rhum",
-    "date": "2026-11-01T06:32:00+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/dd819d00-9859-46ba-adda-e9fbe922976e/27164-01.11.2026-ITEMA_24734525-2026B51954S0305-NET_29A_B1798E0D-17CB-4397-B7BF-92E2F9C4E44A-21-61c8a9dcef2493db6e2f7b74edf49275.mp3",
-    "duree": 109,
-    "texte": "durée : 00:01:49  - 115 bag a gemero perzh e Hent ar rom a loc'ho eus Sant-Maloù d'ar Sul 1añ a viz Du da 1 eur 02 rik goude-merenn. Ar redadeg treuzatlantel budetañ 'vez dalc'het bep pevar bloaz. Ha Thomas André, ar skiper yaouank div wech kampion ar bed, zo o vont da heuliañ ar vartoloded a-dost. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
