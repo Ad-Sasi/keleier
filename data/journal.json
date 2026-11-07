@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-07T01:58:02.254471+00:00",
+ "maj": "2026-11-07T08:51:04.543301+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "f34b7b27-06e6-4ae6-9e4a-9ac0defe60c7",
+    "titre": "Keleier : Ar reportaj",
+    "date": "2026-11-07T06:32:00+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/2ae212db-6246-4166-ba80-f5a22c58576a/27164-07.11.2026-ITEMA_24743119-2026B51954S0311-NET_29A_6B815D65-DF49-4801-A20F-51CAB248DC87-21-1f6bb3aa8c404fc95cd20bf02d2ca6f5.mp3",
+    "duree": 116,
+    "texte": "durée : 00:01:56 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "8d3db735-4afc-426a-8f32-80bf191fd498",
     "titre": "E brezhoneg - Sécheresse : pas de plan Orsec déclenché dans le Finsitère pour l'instant, mais la crise continue",
     "date": "2026-11-04T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/6106b5ef-186b-4748-9819-e461bdddba44/27164-03.11.2026-ITEMA_24736343-2026B51954S0307-NET_29A_3E79FB52-66DB-4B6E-91F8-7B7D645F89E1-21-89339dcf00ab6bfdbb1c8caf230c8fa8.mp3",
     "duree": 116,
     "texte": "durée : 00:01:56  - N'eo ket bet mouget mouezhioù al liseidi gant ar vakañsoù-skol. E lise Kerne e Kemper da-skouer o deus ur c'hantad skolidi stanket ar savadur diouzh ar mintin, d'al lun 2 a viz Du, o lezel mont-tre memestra ar re a felle dezho heuliañ ar c'hentelioù. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "46c6d9ed-b4e3-401d-a105-ef8081000407",
-    "titre": "E brezhoneg - Rentrée bouleversée au collège Diwan de Guissény après la destruction du toit par la tempête Austen",
-    "date": "2026-11-02T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/5072e3a0-dcb5-41ca-a09c-edd4b8645cf9/27164-02.11.2026-ITEMA_24735721-2026B51954S0306-NET_29A_DCA4C708-363C-417C-A0E7-3E00DF4270A1-21-10a97bc83925975e148e6d7669f8ad30.mp3",
-    "duree": 122,
-    "texte": "durée : 00:02:02  - Un distro-skol dic'hortoz eo e skolaj Diwan Gwiseni d'al Lun 2 a viz Du goude vakañsoù an Hollsent. Rak e oa aet an doenn da nijal 10 deiz 'zo pa 'oa bet ar gorventenn Austen. Ar pezh 'oa c'hoarvezet tri bloaz 'zo rik dija, da vare barr-amzer Ciaran. Met degemeret 'vo an holl skolajidi memes tra. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
