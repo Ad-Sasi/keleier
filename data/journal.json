@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-08T01:28:30.033679+00:00",
+ "maj": "2026-11-08T09:03:54.138256+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "b0ad5b89-70ff-4b9f-b6e8-bafb2f6e692e",
+    "titre": "Keleier : Ar reportaj",
+    "date": "2026-11-08T06:32:00+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/bc05e351-0b1b-4f41-b7e2-19c9d6e1b4c1/27164-08.11.2026-ITEMA_24743927-2026B51954S0312-NET_29A_C100A5CE-E435-4482-B3FE-226FE18F5E25-21-ff1bf510693881c29d976bbe9758f57b.mp3",
+    "duree": 122,
+    "texte": "durée : 00:02:02 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "f34b7b27-06e6-4ae6-9e4a-9ac0defe60c7",
     "titre": "Keleier : Ar reportaj",
     "date": "2026-11-07T06:32:00+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/b9103433-4051-4b1d-8450-2dafbe5558b9/27164-04.11.2026-ITEMA_24737765-2026B51954S0308-NET_29A_4E16BF78-0A55-483F-A8DA-FAE72682B4AF-21-86c6b7c6a4e424aaeb8c4e614036790e.mp3",
     "duree": 133,
     "texte": "durée : 00:02:13  - Ne vo ket lakaet e pleustr ar steuñv Orsec e Penn ar Bed e miz Du, daoust m'emañ tenn stad an dour. Dindan enkadenn sec'hor e chom lakaet an departamant, evel m'emañ abaoe tost tri miz bremañ. Met a-drugarez d'ar barradoù glav zo bet e miz Here ez eus bet daleet muzulioù strizhoc'h evit poent. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "ffb20593-2707-408c-8873-1a69beb78575",
-    "titre": "E brezhoneg - Blocage filtrant au lycée de Cornouaille à Quimper",
-    "date": "2026-11-03T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/6106b5ef-186b-4748-9819-e461bdddba44/27164-03.11.2026-ITEMA_24736343-2026B51954S0307-NET_29A_3E79FB52-66DB-4B6E-91F8-7B7D645F89E1-21-89339dcf00ab6bfdbb1c8caf230c8fa8.mp3",
-    "duree": 116,
-    "texte": "durée : 00:01:56  - N'eo ket bet mouget mouezhioù al liseidi gant ar vakañsoù-skol. E lise Kerne e Kemper da-skouer o deus ur c'hantad skolidi stanket ar savadur diouzh ar mintin, d'al lun 2 a viz Du, o lezel mont-tre memestra ar re a felle dezho heuliañ ar c'hentelioù. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
