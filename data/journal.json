@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-10T04:09:40.937464+00:00",
+ "maj": "2026-11-10T12:42:32.015900+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84578",
+    "titre": "Keleier ar vro d'ar Meurzh 10 a viz-Du 2026",
+    "date": "2026-11-10T08:01:35+00:00",
+    "audio": "https://api.radios.bzh/assets/cf4a6d12-59b5-45e4-a454-98b6acc6f59d.mp3",
+    "duree": null,
+    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nDañjerus e vefe ar gaz lakrimojen evit yec'hed ar merc'hed.\nKalz a c'haz lakrimojen a vez taolet war an dud gant ar CRSed e-pad ar manifestadegoù daou viz 'zo bremañ. Lod merc'hed o deus poan goude bezañ bet o vanifestiñ ha darn deuzhouto eo deuet o amzerioù en avañs. Selaouomp May, ur studierez eus Brest, bet o vanifestiñ d'an 17 a viz-Here.\nUr reportaj gant Erwan Blanchard.\nUr c'hazetenner skoet warnañ gant ar boliserien.\nLionel Bonis a oa o sevel reportajoù e Roazhon d'ar 5 a viz-Du e-pad ur vanifestadeg. Poliserien o doa lopet warneñ gant o fennoù-bazh. Selaouomp anezhañ.\nUn atersadenn gant Anton Burel.\nHa da glevet er c'heleier ivez :\nMarv eo Michal Oksinki\nKomañset eo ar C'hop 31\nKeloù deus ar \"c'hoñferañs sokial\" e Matignon\nUn devezh-grev all el liseioù\nProsez Kévin Escoffier\nIzel eo an dour er poulloù freatek"
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84543",
     "titre": "Keleier ar vro d'al Lun 9 a viz Du 2026",
@@ -64,20 +72,20 @@
     "audio": "https://api.radios.bzh/assets/19c9ca73-4395-478c-92e0-0d01441db278.mp3",
     "duree": null,
     "texte": "Kinniget eo bet ar c'heleier ar mintin-mañ gant Metig Jakez-Vargas\nEnebiezh a zo e Sizun d'ar raktres sevel tourioù avel\nPevar tour-avel a vefe savet eno gant an embregerezh Valorem, ha kinniget 'zo bet sevel pevar all c'hoazh war gumun Lokmelar. Ur gevredigezh, Non aux éoliennes à Sizun he anv, a zo bet krouet evit mont a-enep d'ar raktres-mañ. Ur vanifestadeg a oa bet dalc'het d'ar 25 a viz-Here er Roc'h Tredudon, da zigas keloù d'an dud diwar-benn ar raktresoù-se, kar evit ar mare n'eus ket bet goulennet o ali gant an dud. Selaouomp Gwenegan Kaer, a zo o chom e Sizun, nebell eus al lec'h m'eo sañset Valorem sevel an tourioù.\nEon Avel, arz breizhad a-vremañ\nSaloñs Micherioù an Arz a oa dalc'het e-pad an dibenn sizhun e Lannuon. Hanterkant arzour hag arzourez breizhad a oa bodet eno e sal an Ursulizened. En o zouez e oa an daouad Eon Avel, daou baotr yaouank deus Bro-Kemper, bet o tiskouez o labour d'an dud. Engravadurioù ha taolennoù a oa deuet ganto dreist-holl, awenet gant gizioù kozh Breizh. Selaouomp Breuuenn.\nHa da glevet ivez er c'heleier : \n- Devezh diwezhañ an harz-tennañ etre Ukren ha Rusia e oa dec'h\n- Iliana Iotova a chomo e penn Bulgaria\n- Daoust hag e tistroio al liseadezed ha liseidi d'ar salioù klas hiziv ?\n- Kantadoù a viliadoù a dud o doa manifestet e Frañs disadorn c'hoazh\n- Sportoù"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84344",
-    "titre": "Keleier ar vro d'ar Gwener 30 a viz Here 2026",
-    "date": "2026-10-30T09:16:58+00:00",
-    "audio": "https://api.radios.bzh/assets/0636f7f9-0176-440e-a20e-39e7923cb289.mp3",
-    "duree": null,
-    "texte": "Embannet eo bet ar c'heleier gant Anton Burel\nBec’h zo barzh ar stourm evit ar yezh e bro Euskadi !\n15 kumun diàr ar 158 a zo e kumuniezh kumunioù Bro Euskadi o deus votet mennadoù pe « délibérationoù » evit anav an Euskereg. Met diàr goulenn ar prefed eo bet kaset lod anezhe dirak lezvarn velestradurel Pau. Ar mennad votet get kuzul-kêr Arberats-Sillègue, él re 7 kummun arall a zo bet nullet. Pierre Guichaoua maer ar gumun a zo dipitet met prest da zalc’hiñ get ar stourm.\nUr pennad-kaoz gant Aodren Trehin\nDisalliñ dour-mor, un diskoulm evit an diouer a zour ?\nGant ar sec'hor a zo bet ar bloaz-mañ dre ar bed e vez lod broioù bremañ o klask an tu da broduiñ muioc'h a zour. Met penaos ober ? En Israël, e Bro-China pe er Stadoù Unanet lakaomp e vez savet uzinoù bras da zisallañ an dour-mor. E Breizh ez eus bet savet div stasion e-giz-se dija, an hini gentañ en Enez Sun hag eben e Groe ar bloaz paseet. Met disklêriet e vez ar mod-se d'ober gant ar strolladoù ekologour. Bet eo Benjamin Bouard o c'houlenn e ali gant Jean-Yves Le Corre, a zo e penn sindikad an dour Goas Koll – Traoù Long e Bro-Dreger. Evitañ, ar pep gwellañ zo d'ober eo espernañ an dour digentañ. E Bro-Lannuon da skouer 'zo bet krouet ur program da gourachiñ an dud da implijañ a zour, « Mollo sur l'Eau » e anv.\nUr pennad-kaoz gant Benjamin Bouard\nHa da selaou ouzhpenn 'bar c'heleier:\nMoustrerezh e Bro-Euskal : Daou sterniad deus an tu kleiz-dizalc'hour euskarat a zo bet toullbac'het gant ar Stad Spagn evit spontouriezh\nManifestadeg devezh stourm ar 31 a viz Here\nKrogadoù melldroad an dibenn-sizhun"
    }
   ]
  },
  "reportaj": {
   "nom": "Keleier : Ar reportaj",
   "episodes": [
+   {
+    "id": "e60f2fd5-9ffa-4e14-b412-45ca4b861819",
+    "titre": "E brezhoneg - Les lycéens, étudiants et leurs professeurs appelés à une nouvelle journée d'action ce mardi",
+    "date": "2026-11-10T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/39a4dcb4-6de7-426c-8c22-babbd95db905/27164-10.11.2026-ITEMA_24745663-2026B51954S0314-NET_29A_41C52D15-5999-4BBD-AFC9-A2BF834C2190-21-169685950095f718cfff7d236af4de79.mp3",
+    "duree": 119,
+    "texte": "durée : 00:01:59  - Gwelet 'vo liseidi, studierien ha kelennerien er straedoù d'ar Meurzh 10 a viz Du adarre. Ur galv da harz-labour a zo savet c'hoazh gant ar re yaouank ha labourerien an deskadurezh. Met n'eo ket anat da vodañ kement a dud hag en deizioù all, goude ouzhpenn ur mizvezh a stourm. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
    {
     "id": "f680ca62-a56e-4952-924f-9300e45364db",
     "titre": "E brezhoneg - Banque alimentaire : \"Les gens ont du mal avec le coût de la vie mais ils sont quand même généreux\"",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/bc05e351-0b1b-4f41-b7e2-19c9d6e1b4c1/27164-08.11.2026-ITEMA_24743927-2026B51954S0312-NET_29A_C100A5CE-E435-4482-B3FE-226FE18F5E25-21-ff1bf510693881c29d976bbe9758f57b.mp3",
     "duree": 122,
     "texte": "durée : 00:02:02 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "f34b7b27-06e6-4ae6-9e4a-9ac0defe60c7",
-    "titre": "Keleier : Ar reportaj",
-    "date": "2026-11-07T06:32:00+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/2ae212db-6246-4166-ba80-f5a22c58576a/27164-07.11.2026-ITEMA_24743119-2026B51954S0311-NET_29A_6B815D65-DF49-4801-A20F-51CAB248DC87-21-1f6bb3aa8c404fc95cd20bf02d2ca6f5.mp3",
-    "duree": 116,
-    "texte": "durée : 00:01:56 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
