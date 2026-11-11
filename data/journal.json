@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-11T01:57:33.387604+00:00",
+ "maj": "2026-11-11T09:29:52.651752+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "80094aeb-a7a8-44a5-a8fa-8da9e91a2380",
+    "titre": "Keleier : Ar reportaj",
+    "date": "2026-11-11T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/a2232820-bfce-4e34-b4e3-b2e48a43dcef/27164-11.11.2026-ITEMA_24747163-2026B51954S0315-NET_29A_6A01CB18-AC9B-4D40-A9C9-932D541A55D8-21-e9315c4643a7f4abd8d522606921e36e.mp3",
+    "duree": 120,
+    "texte": "durée : 00:02:00 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "e60f2fd5-9ffa-4e14-b412-45ca4b861819",
     "titre": "E brezhoneg - Les lycéens, étudiants et leurs professeurs appelés à une nouvelle journée d'action ce mardi",
     "date": "2026-11-10T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/aa8a62ba-77d3-411a-a1ca-78e1d4af6cc6/27164-09.11.2026-ITEMA_24745138-2026B51954S0313-NET_29A_BCE00014-6B36-44CB-A0DA-76381112A000-21-0726e262cd902fe58b34478081b42924.mp3",
     "duree": 127,
     "texte": "durée : 00:02:07  - A-hed d'an dibenn-sizhun oa bet gwelet tud gant jiletennoù orañjez ar bank boued er gourmarc'hadoù ar vro. Ha galvet ar pratikoù da brenañ produioù evit ar re baour, pe vije boued pe produioù evit ar yerc'hed. Tro 9000 mil tonenn ditouo vez rastellet mod-se e Penn ar Bed bep bloaz. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "b0ad5b89-70ff-4b9f-b6e8-bafb2f6e692e",
-    "titre": "Keleier : Ar reportaj",
-    "date": "2026-11-08T06:32:00+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/bc05e351-0b1b-4f41-b7e2-19c9d6e1b4c1/27164-08.11.2026-ITEMA_24743927-2026B51954S0312-NET_29A_C100A5CE-E435-4482-B3FE-226FE18F5E25-21-ff1bf510693881c29d976bbe9758f57b.mp3",
-    "duree": 122,
-    "texte": "durée : 00:02:02 \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
