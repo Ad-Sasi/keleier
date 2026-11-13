@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13T09:37:22.552518+00:00",
+ "maj": "2026-11-13T17:47:38.434335+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "8fb4f5aa-4846-48fa-b1de-0db6cdccf3c5",
+    "titre": "E brezhoneg - Les salariés de Diwan partagés avant l'AG extraordinaire de samedi pour désigner une nouvelle présidence",
+    "date": "2026-11-13T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/11557b43-02d2-4390-8433-09b594b4f27b/27164-13.11.2026-ITEMA_24750149-2026B51954S0317-NET_29A_EA11334F-774D-4D4F-A7B1-1627CBB5632F-21-e36ebe2c8731bff7a288d09eb4e4eea0.mp3",
+    "duree": 109,
+    "texte": "durée : 00:01:49  - Un emvod-meur dreistordinal a vo dalc'het d'ar Sadorn 1 a viz Du e Gwened, rak e oa bet roet he dilez gant Anne-Sophie Brats, prezidantez Diwan, e kreiz miz Here. Ezhomm ez eus da zilenn un den nevez e penn rouedad ar skolioù dre soubidigezh hag a ra war-dro ouzhpenn 3 500 bugel ha 600 implijiad. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "0843e7d7-242c-4e71-9b62-0cda6a99102c",
     "titre": "E brezhoneg - Des Bretons de Plogoff en voyage au Japon pour rencontrer des militants anti-nucléaires",
     "date": "2026-11-12T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/a2232820-bfce-4e34-b4e3-b2e48a43dcef/27164-11.11.2026-ITEMA_24747163-2026B51954S0315-NET_29A_6A01CB18-AC9B-4D40-A9C9-932D541A55D8-21-e9315c4643a7f4abd8d522606921e36e.mp3",
     "duree": 120,
     "texte": "durée : 00:02:00  - Ofisiel eo bremañ : serret 'vo ti-gwilioudiñ Gwengamp. Embannet eo bet ar c'heloù d'al Lun 9 a viz Du 2026 gant Ajañs rannvroel ar yec'hed, goude tri bloaz hanter a serradur berr-dermen. Fuloret ha trist eo izili kuzul difenn an ospital. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "e60f2fd5-9ffa-4e14-b412-45ca4b861819",
-    "titre": "E brezhoneg - Les lycéens, étudiants et leurs professeurs appelés à une nouvelle journée d'action ce mardi",
-    "date": "2026-11-10T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/39a4dcb4-6de7-426c-8c22-babbd95db905/27164-10.11.2026-ITEMA_24745663-2026B51954S0314-NET_29A_41C52D15-5999-4BBD-AFC9-A2BF834C2190-21-169685950095f718cfff7d236af4de79.mp3",
-    "duree": 119,
-    "texte": "durée : 00:01:59  - Gwelet 'vo liseidi, studierien ha kelennerien er straedoù d'ar Meurzh 10 a viz Du adarre. Ur galv da harz-labour a zo savet c'hoazh gant ar re yaouank ha labourerien an deskadurezh. Met n'eo ket anat da vodañ kement a dud hag en deizioù all, goude ouzhpenn ur mizvezh a stourm. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
