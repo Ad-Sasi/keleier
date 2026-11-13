@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-13T01:08:21.500030+00:00",
+ "maj": "2026-11-13T09:37:22.552518+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84639",
+    "titre": "Keleier ar vro d'ar Gwener 13 a viz Kalan-gouiañv 2026",
+    "date": "2026-11-13T08:14:10+00:00",
+    "audio": "https://api.radios.bzh/assets/634abc03-3b1b-4c28-bc72-07ad7d85242b.mp3",
+    "duree": null,
+    "texte": "Kinniget eo bet an doereioù get Aodren Trehin ar mintin-mañ.\nE Argol he deus Anna Jouin ur vagerezh gwez-frouezh peizant, abaoe 2023, anvet « Gwez » just a-walc'h !\n600 gwezenn a vo gwerzhet geti ar blez-mañ : gwez avaloù, pêr, kerez, pechez, kastrilhez... Pep hini a gavay e lod. Hag emañ mare ar plantañ é tostaat, emezi. Mard oc'h dedennet da ouiet hiroc'h àr ar gwez a gaver e magerezh gwez-frouezh Anna Jouin pe ma faota deoc'h prenañ unan zoken, e c'hellit kaouit ur yoc’h titouroù dre he lec'hienn internet « [pepinièregwez.fr] (http://pepinièregwez.fr) ». Hag adalek miz An Azvent, miz Kerzu e vo gwerzhet gwez ar c'houlzad geti.\nUr pennad-kaoz get Metig Jakez-Vargas.\nN'eo ket achiv an adlodennañ pe ar remembrement e Breizh avat : kalz kleuzioù a vez freuzet du-mañ du-hont atav, kilometradoù bep plez.\nHag an dra-se ne blija ket d'an holl ! Evit enebiñ doc’h an distrujoù-se 'zo bet krouet meur a strollad e Penn-ar-Bed hag e Aodoù-an-Arvor, « Kleuzioù » o anv. Unan ‘zo bet krouet ur miz 'zo e Boneur e Menez Are. Kar er barrez-se n'eus ket 'met ul labourer-douar ken ha kleuzioù a vez foeltret geton. Evit gwareziñ ar re a zo chomet en o sav eo bet krouet ar strollad « Kleuzioù Boneur ». Selaouomp Gérard Gwenn, unan deus ar re o deus savet ar stroll.\nUn atersadenn get Benjamin Bouard.\nDa glevet ivez er c'heleier: \n-Klemm en deus savet Jordan Bardella a-enep da X evit « implij dielloù faos » da geñver enklask Mediapart.\n-Harz-labour hollek a vo ar 17 dimeurzh é tonet.\n-Anvioù tud brudet ag an tu kleiz a zo bet kavet e ti Kevin Tessier, paotr ar gwalldaol e Trappes ha La Verrière.\n-Ul lodenn a lenn Jugon a vo goulliet evit pourveziñ ar stankell dour mat da evet e Pleven.\n-Lod 'zo a-enep d'ar raktres brasaat aquarium Sant-Maloù.\n-Doereioù a Hent ar Rhum: Dec’h eo arriv Boris Herrmann en 2vet plas àr podium ar bagoù Imoca, hag Élodie Bonafous en 3vet plas. Damien Seguin, er 1añ plas er rummad Vintage Multi."
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84608",
     "titre": "Keleier ar vro d'ar Yaou 12 a viz Du 2026",
@@ -64,14 +72,6 @@
     "audio": "https://api.radios.bzh/assets/895e7761-44de-47f0-b081-13e033c52b22.mp3",
     "duree": null,
     "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier.\nPesked marv er stêr Odet na pet !\nPesket marv ha loened all a oa bet kavet hed-ha-hed ar stêr Odet e fin miz-Here. Lazhet e oant bet gant ur barrad dour-trenk a oa bet goude ar glav bras, e-giz posubl ma oa trenket an dour a-greiz tout. Uisant Kreker zo kuzulier e Kumuniezh Kumunioù Kemper Breizh-Izel, en afer eus ar riskloù stag ouzh cheñchamant an hin.\nUn atersadenn gant Metig Jakez-Vargas.\nAl Lavar Skeudennek - Diwar-benn Jul ar Groz\nUr vrav a ziskouezadeg a c'haller mont gwelet er Roc'h Ugu e Bro-Dreger, savet gant Gaby Kerdoncuff hag Olivia Blondel, en-dro da labour Jules Gros, da enoriñ anezhañ ha pinvidigezh brezhoneg ar bobl.\nUn atersadenn gant Benjamin Bouard.\nHa da glevet er c'heleier ivez \nAet eo ar C'hongrez amerikan gant an Demokrated\nKeroc'h vo ar boued gant ar fenomen El Niño\n800 000 a dud a-enep da CNEWS e Frañs\nKévin Tessier en deus klasket en em zistrujañ\nMilierioù a choukaied a oa da vezañ diskaret e Breizh\nKarl Bushby zo deuet d'ar gêr goude 28 vloaz war heñchoù ar bed"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84406",
-    "titre": "Keleier ar vro d'ar Meurzh 3 a viz Du 2026",
-    "date": "2026-11-03T09:06:05+00:00",
-    "audio": "https://api.radios.bzh/assets/30454d27-4a93-42db-bc79-29232eb262f9.mp3",
-    "duree": null,
-    "texte": "Embannet eo bet ar c'heleier gant Anton Burel\nMont da studiañ e Bro-Iwerzhon gant Erasmus\nMont da studiañ d’an estrenvro zo ur pal zo maget gant ur bouchad tud yaouank. A-drugarez da Erasmus ‘c’hall studierien eus Unvaniezh Europa ha pelloc’h zoken bevañ ur bloavezh skol-veur pe nebeutoc’h ‘ba unan eus skolioù meur a gaver enni. E 1987 ‘oa bet lakaet e plas ar programm eskemm etre ar skolioù-meur gant Kumuniezh Ekonomikel Europa. Hag abaoe e ra Erasmus berzh. Muioc’h ‘vit 60 000 studier-ez ‘oa bet kaset dre Europa e 2024 da skouer. Evit ar bloavezh skol-veur mañ ‘noa lakaet Anna Blanchard hec’h anv ‘bar programm. O studiañ emañ ar saozneg gant Skol-veur Roazhon 2. Divizet ‘noa e fin ar bloavezh skol-veur diwezhañ emstrivañ evit kaout ur plas ‘ba Skol-Veur Galway ‘ba Bro-Iwerzhon…\nUr pennad-kaoz gant Erwan Blanchard\nMare al levrioù : Gouelec'h an dartared gant Dino Buzzati a zo bet troet e brezhoneg\nAï omp ba kreiz mare al levrioù ba Breizh, setu e rimp un tamm tro ba bed al levrioù nevez embannet. Ouzhpenn d’al levrioù skrivet e brezhoneg e vez troidigezhioù a vez embannet bep bloaz gant skoazell Kuzul Rannvro Breizh ha Programm treiñ an Ofis. Ar bloaz-mañ eo ur bennoberenn a zo bet lakaet e brezhoneg : Gouelec’h an dartared gant ar skrivagner italian Dino Buzzati. Istor en ofiser Yaouank anvet Giovanni Drogo a zo kaset d’e bost kentañ, ur c’heñvlec’h distro war harzoù ar gouelec’h o c’hortoz e enebourien, an dartared. Selaouomp diouzhtu Aline Gloeneg he deus troet al levr diwar an italianeg, displegañ a ra deomp perak he deus dibabet treiñ al levr-mañ ...\nUr pennad-kaoz gant Anton Burel\nHa da selaou ouzhpenn 'bar c'heleier:\nDilennadegoù Midterms e Stadoù Unanet\nTagadenn amerikan en Iran\nStourm al liseidi\nHent ar Rhum"
    }
   ]
  },
