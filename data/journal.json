@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-15T22:53:31.780605+00:00",
+ "maj": "2026-11-16T06:38:13.404914+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "be67f13a-3df2-4a84-8258-f9641fa058a5",
+    "titre": "E brezhoneg : un nouveau président à la tête des écoles Diwan",
+    "date": "2026-11-16T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/f919e598-1438-485f-9ccf-436120def32e/27164-16.11.2026-ITEMA_24754398-2026B51954S0320-NET_29A_20B1B0FA-B9B4-4030-98A9-0423273546B9-21-dfad9f2d2af7d82c0e75a9e6ed2eb00b.mp3",
+    "duree": 151,
+    "texte": "durée : 00:02:31  - Goude mizioù a trubuhlioù 'oa bet dilennet da-heul an emvod-meur dreistordinal dalc'het d'ar Sadorn 14 a viz Du 2026, ur burev nevez e Diwan. Dilennet eo bet Yves-Marie Derbré-Salaün da brezidant. Skoazellet 'vo gant c'hwec'h Besprezidant – teir flac’h ha pevar faotr. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "022d6169-5702-4d30-adc4-811721439bf1",
     "titre": "E brezhoneg - Toute une journée pour fêter l'automne à Ti ar c'hoadoù dans le Kreiz Breizh dimanche",
     "date": "2026-11-15T06:32:00+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/11557b43-02d2-4390-8433-09b594b4f27b/27164-13.11.2026-ITEMA_24750149-2026B51954S0317-NET_29A_EA11334F-774D-4D4F-A7B1-1627CBB5632F-21-e36ebe2c8731bff7a288d09eb4e4eea0.mp3",
     "duree": 109,
     "texte": "durée : 00:01:49  - Un emvod-meur dreistordinal a vo dalc'het d'ar Sadorn 1 a viz Du e Gwened, rak e oa bet roet he dilez gant Anne-Sophie Brats, prezidantez Diwan, e kreiz miz Here. Ezhomm ez eus da zilenn un den nevez e penn rouedad ar skolioù dre soubidigezh hag a ra war-dro ouzhpenn 3 500 bugel ha 600 implijiad. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "0843e7d7-242c-4e71-9b62-0cda6a99102c",
-    "titre": "E brezhoneg - Des Bretons de Plogoff en voyage au Japon pour rencontrer des militants anti-nucléaires",
-    "date": "2026-11-12T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/99ba41fb-a85e-4bc6-a453-9d0fa9ffe43f/27164-12.11.2026-ITEMA_24748561-2026B51954S0316-NET_29A_F42B7ABD-279D-4519-B10B-63A650245B11-21-a102ac14a05743ed2b70d408113f49e1.mp3",
-    "duree": 119,
-    "texte": "durée : 00:01:59  - Bez ez eus stourmerien Plogoñv hag a zo o vont da vro Japan, d'ar Yaou 12 a viz Du e vint erruet eno. Bez ez eus tri den izili eus ar gevredigezh Memor stourm Plogoñv, ha daou all, a chomo ur sizhunvezh. Int zo o vont da welet stourmerien, hag en o mesk tud hag a oa deuet d'ar C'hap tri bloaz 'zo. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
