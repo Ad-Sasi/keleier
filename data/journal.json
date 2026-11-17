@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-17T02:57:18.345564+00:00",
+ "maj": "2026-11-17T13:31:42.479633+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84740",
+    "titre": "Keleier ar vro d'ar Meurzh 17 a viz Du 2026",
+    "date": "2026-11-17T09:26:49+00:00",
+    "audio": "https://api.radios.bzh/assets/7db8d7db-97bb-48b4-874e-376a367af0e5.mp3",
+    "duree": null,
+    "texte": "Embannet eo bet ar c'heleier gant Anton Burel\nBrezhoweb Komedi Klub nevez\nAbadennoù stand-up a vez gwelet ur bern e galleg, saozneg, spagnoleg ha me oar-me, met kalz nebeutoc'h a zo e yezhoù-rannvro. An dra-se zo kaoz e oa bet krouet ar Brezhoweb Komedi Club, ar c'hentañ stand-up e brezhoneg. Bloaz 'zo bremañ e oa deuet e-maez an abadenn gentañ hag un eil abadenn a oa bet filmet ar sizhun baseet e studio Brezhoweb en Alre. Seizh den a oa bet war al leurenn etre tout, paotred ha merc'hed a-bep seurt oad, o kontañ traoù fentus e brezhoneg tout. Selaouomp Dewi Siberil, bet o prezañtiñ an div abadenn.\nUr pennad-kaoz gant Benjamin Bouard\nPa c'hwezh avel hon lennegezh 2 gant Herve Bihan\nEtre miz Here ha miz Kerdu emaomp e Kreiz mare al levrioù : gant saloñs Karaez e fin miz Here, saloñs Gwenrann an dibenn-sizhun tremenet ha Nedeleg a zeu a-benn un tamm ouzhpenn ur miz bremañ. Kendalc’homp neuze da welet peseurt levrioù zo bet embannet ha petra eo oberennoù lennegel pennañ ar bloaz-mañ. E-mesk al levrioù nevez embannet o deus graet trouz ez eus eil levrenn Pa c’hwezh avel hon lennegezh gant Herve Bihan. Ar c’helenner emerit e skol-veur Roazhon 2 zo brudet evit bezañ e-mesk arbennigourien pennañ deus hor yezh, istor hor yezh hag hon lennegezh, kinnig a ra gant Pa c’hwezh avel hon lennegezh un dibab pennadoù skrid ha kronikennoù diwar-benn Gwalarn, ar gelaouenn hag al luskad lennegel neus savet hon lennegezh a-vremañ. \nUr pennad-kaoz gant Anton Burel\nHa da selaou ouzhpenn 'bar c'heleier : \nSoudarded an arme c'hall en Ukraina\nHarz labour ar 17 a viz Du\nDarn vrasañ gloazadennoù ar boliserien e-pad al luskad sokial-mañ a zo dister hervez enklask nevez Mediapart\nFestival Yaouank e Bro-Roazhon\nKrogad etre Euskal Seleksioa (Skipailh Broadel Bro-Euskal) ha Skipailh Venezuela"
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84694",
     "titre": "Keleier ar vro d'al Lun 16 a viz-Du 2026",
@@ -64,20 +72,20 @@
     "audio": "https://api.radios.bzh/assets/1c0a249a-ece3-43b8-9f57-4c63e5d8b161.mp3",
     "duree": null,
     "texte": "Embannet eo bet ar c'heleier gant Anton Burel\nDaoust hag-eñ e vo nullet friko ar c'hanol gall ?\nSeul taol ma vez raktreset ur friko get ar C’hanon français e sava reuz ! Rebechet e vez dezhe bout ag dehoù pellañ ha finanset get Pierre-Edouard Stérin, ur miliardaer a faota dezhon lakaat ar strolladoù get ar mennozhioù politikel-se d’ar galloud. Da gentañ e oa sañset bout graet ar pred e Kemper, met difennet eo bet get prezidantez an tolpad-kêrioù, Isabelle Assih ag ar PS. Divizet o deus neuze aozerion ar chervad (ar friko) monet da Wened ar 5 a viz Kerzu. Met n’eo ket a du lod e Gwened naket e vehe degemeret ar friko bras. Ur galv da vanifestiñ a enep d’ar C’hanon français a zo bet savet get ar Gwened Antifa Crew. Selaoump JB a zo perzh eus ar stroll.\nUr pennad-kaoz gant Aodren Trehin\nDonemat : an arload nevez evit deskiñ Brezhoneg Gwened\nKerlenn Sten Kidna a zo ur gevredigezh en Alre a zo he fal gwarn glad ar vro ha surtout ar yezh. Evit en ober o deus tud ar gevredigezh savet un arload, da laret eo un appli nevez evit deskiñ brezhoneg. Donemat a vez graet anezhon. Antoine Jaury ezel a guzul-merañ ar gerlenn ha deskard àr ar brezhoneg a zo ivez ijinour a vicher. Labouret en deus a volonte vat evit dioren an arload. Padrig Drean a zo prezidant ar Gerlenn ha Remi Pierre ag ar gevredigezh Ar Sklerijenn a oa daet da destiñ an ostilh nevez. Tout an dud-se a oa doc’h mikro Aodren Trehin disadorn da vare ar prantad kinnig an arload. \nUr pennad-kaoz gant Aodren Trehin\nHa da selaou ouzhpenn 'bar c'heleier:\nKrog eo ar C'hop 31 e Antalya\nUr gwalldaol spontour zo bet e Krakovia disadorn\nManifestadegoù ar 7 a viz Du\nPratikoù taget gant ar boliserien e Naoned\nDisoc'hoù krogadoù melldroad an dibenn-sizhun"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84512",
-    "titre": "Keleier ar vro d'ar Gwener 6 a viz Du 2026",
-    "date": "2026-11-06T08:02:49+00:00",
-    "audio": "https://api.radios.bzh/assets/aa7f53ac-7e82-40cd-bb9f-f2bbfd33bfbd.mp3",
-    "duree": null,
-    "texte": "Embannet eo ar c'heleier gant Erwan Blanchard\nManifestadegoù ouzh ar vuhez re gaer 'neunt graet berzh 'ba Breizh\nEmaomp o vont da c’houestlañ un tamùm eus an abadenn geleier ‘bar stourm sokial ‘oa dalc’het dec’h… ‘Ba Breizh, ‘ba Frañs ha ‘ba lec’h all ‘ba Europa : E Bro Spagn, Itali, Portugal ha Beljik o doa dibunet an dud ivez war ar straedoù evit stourm a-enep d’ar strizhder ekonomikel ha goulenn muioc’h a reizhded sokial.\nE Frañs e oa an devezh stourm brasañ a-c’houde derroù an diskar-amzer. War-dro 1,6 milion a vanifesterion a zo bet hervez ar CGT, hag un tammig nebeutoc’h eget 600 000 hervez minister an diabarzh.\nEn Oriant e oa ur morad tud a oa war ar straedoù : Etre 8 000 hervez CGT ar Morbihan, an hanter nebeutoc’h hervez ar polis. Difennet e oa bet get ar prefeti dibuniñ e kreiz-kêr, neuze e oa bet lakaet an emgav d’ar mintin dirak an ospital ha korntroiet an dachenn difennet. Sioul ha laouen e oa an aergelc’h, a bep seurt rummadoù oad o doa kemeret perzh.\nPeseurt temz spered ‘zo get an dud ? Aodren Trehin he doa goulennataet Erell zo o labourat gant ur strollegezh lec’hel, ha Loeiza, zo kelennourez anezhi e harz-labour.\n‘Ba Brest eo war dro 20 000 den ‘noant manifestet dec’h. Stourm eus ar prizioù re uhel ‘oa pal ul lodenn deusho ‘vel Marie. Hag ur stourm etre rummadoù. Kar ur bern tud yaouank ‘oa o tibuniñ dec’h ‘vel Maiwenn, zo studierez ‘da ingal da vanifestiñ ar rummadoù tud koshoc’h ‘viti hag evit he dazont dezhi. Emaint gant Erwan Blanchard.\nA-du emañ ar boblañs gant ar soñjoù emrenour hervez an IFOP\nUr sontadeg a zo bet nevez embannet diàr goulenn R&amp;PS (Régions et peuples solidaires), Rannvroioù ha pobloù kengred, ur c’hevredad a voda strolladoù politikel emrennour él an UDB. Ar sontadeg-se, bet graet get an Ifop a ziskoueza eh eus ul lodenn brasoc’h brasañ ag ar boblañs a zo a-du get ar mennozhioù emrennour hag ar politikerezhioù yezh. Setu sell Brendan Guillouzic-Gouret, ezel a Kenurzhierezh demokratel Breizh diàr disoc’hoù ar sontadeg. Emañ gant Aodren Trehin.\nHa da selaou ouzhpenn 'bar c'heleier:\nUn devezh harzh-labour gant implijidi Blue Bus 'ban Erge Vras\nN'eo ket bet votet ar raklezenn wqar ar sevel tailhoù 'ba Frañs\nCredit Mutuel Arkea zo bet taget gant hackerien: 100 milion a euroioù zo bet laeret\n10 vloaz ouzhpenn 'ban toull a ranko chom Joshua Wong 'ba Hong-Kong\nChampions League Hand maouezed: Brest 'degemero Bucarest warc'hoazh"
    }
   ]
  },
  "reportaj": {
   "nom": "Keleier : Ar reportaj",
   "episodes": [
+   {
+    "id": "e2dbb944-5c8a-4deb-9203-1752f613d757",
+    "titre": "E brezhoneg - Le dispositif Klas Bagad fait sonner les élèves du collège Sainte-Anne de Plougastel-Daoulas",
+    "date": "2026-11-17T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/cf90f404-c0b5-418b-a63d-18f6e3bf6947/27164-17.11.2026-ITEMA_24754923-2026B51954S0321-NET_29A_9955DF85-1386-40DE-BA37-48D509BE3AD6-21-842c8ca706c7c6507784f28fb3accc7d.mp3",
+    "duree": 118,
+    "texte": "durée : 00:01:58  - Goude un taol esae pozitivel warlene e Pont 'n Abad en eus dibabet departamant Penn ar Bed ledanaat ar raktres Klas Bagad e-barzh pevar skolaj all abaoe an distro-skol. Ar pal eo broudañ ar sonerezh ha sonerezh ar vro dreist-holl, gant un eurvezh kentel bep sizhun war an amzer skol. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
    {
     "id": "be67f13a-3df2-4a84-8258-f9641fa058a5",
     "titre": "E brezhoneg - Un nouveau président à la tête des écoles Diwan",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/d84beafa-ec0b-4314-9767-f8701f47b6d2/27164-15.11.2026-ITEMA_24753212-2026B51954S0319-NET_29A_20E5B154-E6BD-4737-9EA9-BB0EC6C81EB0-21-b2a5593269f490376a07d991d59b9d45.mp3",
     "duree": 104,
     "texte": "durée : 00:01:44  - O kouezhañ emañ an dieloù hag o veraat an devezhioù. Degouezhet eo an diskar-amzer er vro, setu perak e vez kinniget gant Ti ar c'hoadoù lidañ ar c'houlzad-mañ. D'ar Sul 15 a viz Du e vo dalc'het abadennoù a-hed an devezh, ha digoust eo. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "8fb4f5aa-4846-48fa-b1de-0db6cdccf3c5",
-    "titre": "E brezhoneg - Les salariés de Diwan partagés avant l'AG extraordinaire de samedi pour désigner une nouvelle présidence",
-    "date": "2026-11-13T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/11557b43-02d2-4390-8433-09b594b4f27b/27164-13.11.2026-ITEMA_24750149-2026B51954S0317-NET_29A_EA11334F-774D-4D4F-A7B1-1627CBB5632F-21-e36ebe2c8731bff7a288d09eb4e4eea0.mp3",
-    "duree": 109,
-    "texte": "durée : 00:01:49  - Un emvod-meur dreistordinal a vo dalc'het d'ar Sadorn 1 a viz Du e Gwened, rak e oa bet roet he dilez gant Anne-Sophie Brats, prezidantez Diwan, e kreiz miz Here. Ezhomm ez eus da zilenn un den nevez e penn rouedad ar skolioù dre soubidigezh hag a ra war-dro ouzhpenn 3 500 bugel ha 600 implijiad. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
