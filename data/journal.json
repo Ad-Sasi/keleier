@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-19T00:26:26.023930+00:00",
+ "maj": "2026-11-19T10:26:08.856865+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84826",
+    "titre": "Keleier ar vro d'ar Yaou 19 a viz Du 2026",
+    "date": "2026-11-19T08:24:01+00:00",
+    "audio": "https://api.radios.bzh/assets/bc553130-cd6b-4151-bc0e-ba8e07ff9a4f.mp3",
+    "duree": null,
+    "texte": "Kinniget eo bet ar c'heleier gant Metig Jakez-Vargas ar mintin-mañ\nYves-Marie Derbré-Salaün eo prezidant nevez Diwan\nDisadorn e oa bet dalc'het un emvod dreist-ordinal gant kuzul-merañ Diwan ha dilennet zo bet ur skipailh nevez e penn ar gevredigezh. Seiz bez-prezidant ha bez-prezidantez a vo bremañ en holl ha dilennet eo bet Yves-Marie Derbré Salaün da brezidant ar rouedad skolioù. \nTapet eo bet trombinoskop 4500 lisead eus lise Kerichen e Brest gant ar polis e penn kentañ miz Du…\nDiwar goulenn prokulor ar Republik zo bet kaset poliserien d'al lise, ha roet dezho poltredi an dud yaouank. O klask war lerc’h an dud o deus bannet mein war ar boliserien e-kerzh manifestadeg ar 17 a viz Here emaint. Jaouen zo e lise Kerichen-Vauban.\nHa da glevet ivez er c'heleier : \n- Hiziv en em vod Donald Trump, Xi Jinping ha Vladimir Poutin evit ar wech kentañ, e China\n- Kinniget n'eus ar c'homision European un amprest nevez da vro Ukren\n- 400 000 a dud a oa bet o vanifestiñ e bro Tchekia disul\n- 15 000 a dud, liseidi an darn vrasañ anezho, a zo bet dalc'het dindan ensell abaoe penn kentañ al luskad sokial\n- Bec'h a zo e Douarnenez tro-dro da skol bublik Victor Hugo e kreiz-kêr\n- Freuz-stal he deus graet an embregerezh produiñ tulipez Kaandrop e bro Vigoudenn\n- Emañ prezidant an FFF, Philippe Diallo, war ar renk evit dont da vezañ prezidant ar Fifa"
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84762",
     "titre": "Keleier ar vro d'ar Merc'her 18 a viz Du 2026",
@@ -64,14 +72,6 @@
     "audio": "https://api.radios.bzh/assets/579c6c40-6ac3-46a6-9c43-25ecc150c33b.mp3",
     "duree": null,
     "texte": "Embannet eo bet ar c'heleier gant Erwan Blanchard\nUr manifestour zo bet gloazet gant oto 'ba Montroulez disadorn!\nEchuet fall ‘oa ar vanifestadeg sokial ‘ba Montroulez disadorn. Ur blenier oto ‘zo bet tost da lazhañ unan eus ar vanifesterien p’en em gave an dibunerien chouk d’an ti gar. Aet eo ar blenier a benn d’ar manifesterien ha falc’het unan deusho. Fabris Kadou ‘zo unan eus aozerien ar vanifestadeg. Spontet eo bet ar sindikalour FSU gant an darvoud. Muioc’h gantañ ouzh mikro Erwan Blanchard.\nStanket ha serret eo bet Skol-Veur Roazhon 2\nAbaoe sizhunioù e vez studierien Roazhon o kas ar stourm ‘sambles gant al liseidi. Ouzhpenn da zgoulennoù al liseidi zo harpet gante. Goulenn’reont muioc’h a arc’hant hag a gelennerien e skol-veur Roazhon 2 a zo lakaet diaes abaoe bloavezhioù bremañ gant digresk ar yalc’hadoù a-berzh ar stad. Dimeurzh ‘oa bet embannet blokus ar skol-veur. Louan zo studier en aotregezh war ar Brezhoneg, kemer a ra perzh er stourm hag e oa bet en emvod meur dec’h kreisteiz, lavarout a ra deomp penaos eo tremenet an traoù. Emañ gant Anton Burel.\nHa da selaou ouzhpenn 'bar c'heleier:\nPoltredaouegoù liseidi lise Kerichen zo bet rekisissioned gant ar polis!\nIzel 'vel biskoazh eo ar gementad dour zo dalc'het 'ba lenn Gwerledan\nMilieroù a skolioù zo bet gourdrouzet dre internet 'ba Bro-Skos, Iwerzhon an hanternoz hag Italia\nMilieroù a dud 'oa war ar straedoù 'ba Bro-Spagn dec'h 'vit ar galloud-preno hag al lonjiris\nDegadoù a brizonidi 'vo eskemmet etre Ukren ha Russia\nPevar sindikad kazetennerien 'neunt dougenet klemm eus X puur eo harzhet ar gelaounnerien d'ober o labour\nRink-Hockey: Keverzh 'zo 'ba penn ar c'hampionad Lig 1"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84578",
-    "titre": "Keleier ar vro d'ar Meurzh 10 a viz-Du 2026",
-    "date": "2026-11-10T08:01:35+00:00",
-    "audio": "https://api.radios.bzh/assets/cf4a6d12-59b5-45e4-a454-98b6acc6f59d.mp3",
-    "duree": null,
-    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nDañjerus e vefe ar gaz lakrimojen evit yec'hed ar merc'hed.\nKalz a c'haz lakrimojen a vez taolet war an dud gant ar CRSed e-pad ar manifestadegoù daou viz 'zo bremañ. Lod merc'hed o deus poan goude bezañ bet o vanifestiñ ha darn deuzhouto eo deuet o amzerioù en avañs. Selaouomp May, ur studierez eus Brest, bet o vanifestiñ d'an 17 a viz-Here.\nUr reportaj gant Erwan Blanchard.\nUr c'hazetenner skoet warnañ gant ar boliserien.\nLionel Bonis a oa o sevel reportajoù e Roazhon d'ar 5 a viz-Du e-pad ur vanifestadeg. Poliserien o doa lopet warneñ gant o fennoù-bazh. Selaouomp anezhañ.\nUn atersadenn gant Anton Burel.\nHa da glevet er c'heleier ivez :\nMarv eo Michal Oksinki\nKomañset eo ar C'hop 31\nKeloù deus ar \"c'hoñferañs sokial\" e Matignon\nUn devezh-grev all el liseioù\nProsez Kévin Escoffier\nIzel eo an dour er poulloù freatek"
    }
   ]
  },
@@ -79,12 +79,20 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "dbcf0ccb-1695-43c4-9702-719cd35b0e1d",
+    "titre": "E brezhoneg - Emploi des personnes handicapées : \"Il faut rassurer les employeurs\"",
+    "date": "2026-11-19T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/fc019cc5-64f9-4bef-922a-dc343ec3255c/27164-19.11.2026-ITEMA_24758150-2026B51954S0323-NET_29A_3EB00A2B-08E8-4A89-A33B-B92CD2EB294D-21-4b408255c4f68530ee25b135ffba7313.mp3",
+    "duree": 154,
+    "texte": "durée : 00:02:34  - Er sizhun-mañ e vez dalc'het sizhunvezh europat evit labour an dud ampechet, hag an DuoDay hiziv, d'an 19 a viz Du, ma vez degemeret nammidi en embregerezhioù pe er stalioù. E 2026 e vez liammet ar gaoz en-dro d'an tem : \"Divamiñ, simplaat, ambroug. Al labour evit an holl.\" \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "13a9a9c6-2eac-4d35-b6bf-ec3041d1cf4a",
     "titre": "E brezhoneg - Une pièce de théâtre sur une factrice en tournée à vélo dans le Kreiz Breizh",
     "date": "2026-11-18T05:35:30+00:00",
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/fec15b57-d2ef-4878-b795-1449d53ef791/27164-18.11.2026-ITEMA_24756521-2026B51954S0322-NET_29A_128081F9-D285-42AD-B38B-A624F5AD24AE-21-32dd2e87a05744aa349b2d2307f364a6.mp3",
     "duree": 130,
-    "texte": "durée : 00:02:10  - Ur pezh-c'hoari evit ar vugale zo oc'h ober un droiad war varc'h-houarn e Kreiz Breizh. Kontañ 'ra istor Marielle, ur plac'h al lizhiri war he velo, just a-walc'h. Ur pezh krouet gant Teatr Piba, c'hoariet e brezhoneg pe e galleg. Pedet int bet gant ar gevredigezh Raok evit tri devezh. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+    "texte": "durée : 00:02:10  - Ur pezh-c'hoari evit ar vugale zo oc'h ober un droiad war varc'h-houarn e Kreiz Breizh. Kontañ 'ra istor Marielle, ur plac'h al lizhiri war he belo, just a-walc'h. Ur pezh krouet gant Teatr Piba, c'hoariet e brezhoneg pe e galleg. Pedet int bet gant ar gevredigezh Raok evit tri devezh. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    },
    {
     "id": "e2dbb944-5c8a-4deb-9203-1752f613d757",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/cf90f404-c0b5-418b-a63d-18f6e3bf6947/27164-17.11.2026-ITEMA_24754923-2026B51954S0321-NET_29A_9955DF85-1386-40DE-BA37-48D509BE3AD6-21-842c8ca706c7c6507784f28fb3accc7d.mp3",
     "duree": 118,
     "texte": "durée : 00:01:58  - Goude un taol esae pozitivel warlene e Pont 'n Abad en eus dibabet departamant Penn ar Bed ledanaat ar raktres Klas Bagad e-barzh pevar skolaj all abaoe an distro-skol. Ar pal eo broudañ ar sonerezh ha sonerezh ar vro dreist-holl, gant un eurvezh kentel bep sizhun war an amzer skol. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "be67f13a-3df2-4a84-8258-f9641fa058a5",
-    "titre": "E brezhoneg - Un nouveau président à la tête des écoles Diwan",
-    "date": "2026-11-16T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/f919e598-1438-485f-9ccf-436120def32e/27164-16.11.2026-ITEMA_24754398-2026B51954S0320-NET_29A_20B1B0FA-B9B4-4030-98A9-0423273546B9-21-dfad9f2d2af7d82c0e75a9e6ed2eb00b.mp3",
-    "duree": 151,
-    "texte": "durée : 00:02:31  - Goude mizioù a trubuilhoù 'oa bet dilennet da-heul an emvod-meur dreistordinal dalc'het d'ar Sadorn 14 a viz Du 2026, ur burev nevez e Diwan. Dilennet eo bet Yves-Marie Derbré-Salaün da brezidant. Skoazellet 'vo gant c'hwec'h besprezidant – teir flac’h ha pevar faotr. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
