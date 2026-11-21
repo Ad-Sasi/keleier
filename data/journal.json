@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T03:15:09.564404+00:00",
+ "maj": "2026-11-21T12:43:24.231988+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "9122c0f1-d3ac-4e8a-a9cc-35216378bd86",
+    "titre": "E brezhoneg - Basket : \"On est très étonnés !\", les supporters des Béliers de Quimper ravis du superbe début de saison",
+    "date": "2026-11-21T06:32:00+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/e37fc5d3-3450-41f8-8a36-2740f632636e/27164-21.11.2026-ITEMA_24761881-2026B51954S0325-NET_29A_68003281-6F95-49B8-863F-D2D070C8C685-21-da25409b2c55e3c1ec1b53e5b9fed5f5.mp3",
+    "duree": 111,
+    "texte": "durée : 00:01:51  - C'hoarierien Maouted Kemper zo bet trec'h seizh gwech diwar an eizh match diwezhañ. Pevare emaint eus an Elite daou, goude ur c'hard eus ar c'hampionad. Hag e vo degemeret gante Hyères-Toulon, an daouzekvet, er c'hostum park, d'ar Sadorn 21 a viz Du da eizh eur noz. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "3bdcf585-64b2-4629-8421-2ef35cfd18e8",
     "titre": "E brezhoneg - La mobilisation continue à Concarneau pour rapatrier la famille Al-Rayyes en Bretagne",
     "date": "2026-11-20T05:35:30+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/fc019cc5-64f9-4bef-922a-dc343ec3255c/27164-19.11.2026-ITEMA_24758150-2026B51954S0323-NET_29A_3EB00A2B-08E8-4A89-A33B-B92CD2EB294D-21-4b408255c4f68530ee25b135ffba7313.mp3",
     "duree": 154,
     "texte": "durée : 00:02:34  - Er sizhun-mañ e vez dalc'het sizhunvezh europat evit labour an dud ampechet, hag an DuoDay hiziv, d'an 19 a viz Du, ma vez degemeret nammidi en embregerezhioù pe er stalioù. E 2026 e vez liammet ar gaoz en-dro d'an tem : \"Divamiñ, simplaat, ambroug. Al labour evit an holl.\" \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "13a9a9c6-2eac-4d35-b6bf-ec3041d1cf4a",
-    "titre": "E brezhoneg - Une pièce de théâtre sur une factrice en tournée à vélo dans le Kreiz Breizh",
-    "date": "2026-11-18T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/fec15b57-d2ef-4878-b795-1449d53ef791/27164-18.11.2026-ITEMA_24756521-2026B51954S0322-NET_29A_128081F9-D285-42AD-B38B-A624F5AD24AE-21-32dd2e87a05744aa349b2d2307f364a6.mp3",
-    "duree": 130,
-    "texte": "durée : 00:02:10  - Ur pezh-c'hoari evit ar vugale zo oc'h ober un droiad war varc'h-houarn e Kreiz Breizh. Kontañ 'ra istor Marielle, ur plac'h al lizhiri war he belo, just a-walc'h. Ur pezh krouet gant Teatr Piba, c'hoariet e brezhoneg pe e galleg. Pedet int bet gant ar gevredigezh Raok evit tri devezh. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
