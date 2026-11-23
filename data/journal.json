@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23T07:46:32.433456+00:00",
+ "maj": "2026-11-23T20:17:11.786949+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84905",
+    "titre": "Keleier ar vro d'al Lun 23 a viz Du 2026",
+    "date": "2026-11-23T08:11:56+00:00",
+    "audio": "https://api.radios.bzh/assets/81780a41-e92e-48ce-a0bd-c7619f5dd81d.mp3",
+    "duree": null,
+    "texte": "Embannet eo bet ar c'heleier gant Erwan Blanchard\n5400 dañserez ha dañser 'ba fest-noz Yaouank!\nDisadorn e oa fest-noz brasañ Breizh, setu e oa miliadoù a dud a oa bodet ba sal ar Frankiz e Roazhon evit Fest Noz Yaouank evit kaout tro da welet strolladoù pennañ sonerezh Breizh ‘vel Fleuve, Dixit pe Ndiaz. Ur roll a arzourien noa desachet an dud d’ar fest-noz ha lakaet anezho da zañsal betek tost peder eur beure. penaos eo tremenet an traoù war blas gant an dañserien pe an arvesterien ? Selaouomp diouzhtu Awen Charlez ha Bleuenn ... Ur reportaj gant Anton Burel.\nN'Diaz ' neus kinniget e album nevez da geñver fest-noz Yaouank!\nLeun chouk e oa nozvezh Fest-noz Yaouank disadorn, desachet e oa bet an dud gant an arzourien a oa bet programmet kement ha ma ne chome plas ebet da werzhañ war blas adalek ur serten eur. E-mesk ar strolladoù neus graet berzh war al leurenn e oa ‘Ndiaz a oa deuet da ginnig e pedervet bladenn Eurioù Gwenn embannet gant Paker prod. Guest star oa bet pedet gantañ evit dont da seniñ pe da ganañ gant sonerien Ndiaz, Selaouomp diouzhtu Yann Le Corre ezel deus ar strollad. Emañ gant Anton Burel.\nHa da selaou ouzhpenn 'bar c'heleier:\nAr c'hwec'hvet devezh stourm sokial 'oa dalc'het disadorn: 5000 manifestour c'hoazh 'ba Roazhon ha 'ban Naoned\n300 manifestour o vanifestiñ ouzh al lkabourioù evit kenderc'hel da sevel 11 km a RN 164\nSerret eo ti gwilioudiñ Ospital Landerne evit an eil gwech ar miz mañ\nSalud nazi, pozioù gouenelour, poltred ur bugel noaz: danvez un enklask kaset gant le Parisien 'ba ur skol da stummañ ofiserien Polis\nCop 32: disoc'h eo ha 'neus bet sinet emglev ebet\n99% eus douaroù Gaza zo saotret gaozen d'ar brezel"
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84874",
     "titre": "Keleier d'ar Gwener 20 a viz Du 2026",
@@ -64,14 +72,6 @@
     "audio": "https://api.radios.bzh/assets/5b5c5160-d463-4e6d-b749-e1c0339e9a56.mp3",
     "duree": null,
     "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier.\nDaou-c'hant a dud a oa bet o vanifestiñ evit an hin disadorn.\nGant Greenpeace, Collectif Kiwi ha Colère Cancer 'oa bet renket an abadenn-mañ, evit goulenn ma vo taolañ kont un tammig muioc'h ouzh ar cheñchamant-hin. Tud deus an Ekolojisted pe deus an Association France Palestine Solidarité (AFPS) a oa war ar plas ivez. Goulc'hen Tomin a oa en o zouez.\nUn atersadenn gant Erwan Blanchard.\nUl levr diwar-bouez ar Roc'h-Morvan gwechall.\nMémoires Rochoises eo e anv, skrivet gant Marie Guen, gras da destenioù bet dastumet gant tud eus ar Roc'h-Morvan, e-kichenn Landerne, evit dalc'hen soñj eus ar vuhez gwechall.\nUn atersadenn gant Erwan Blanchard.\nHa da glevet er c'heleier ivez :\nUgent-mil a veajoù dre girri-nij nullet er Stadoù-Unanet.\nTamallet 'zo da France Inter bezañ sañsuret levr Rima Hassan en abadenn Le Masque et la Plume.\nBec'h a zo atô e Sainte-Soline.\nDour a vo kaset eus lenn Jugon da Bleven, kuit d'an dour da vankañ e uzin-dour Lamballe.\nSportoù : football, Hent ar Rhum, handball"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84639",
-    "titre": "Keleier ar vro d'ar Gwener 13 a viz Kalan-gouiañv 2026",
-    "date": "2026-11-13T08:14:10+00:00",
-    "audio": "https://api.radios.bzh/assets/634abc03-3b1b-4c28-bc72-07ad7d85242b.mp3",
-    "duree": null,
-    "texte": "Kinniget eo bet an doereioù get Aodren Trehin ar mintin-mañ.\nE Argol he deus Anna Jouin ur vagerezh gwez-frouezh peizant, abaoe 2023, anvet « Gwez » just a-walc'h !\n600 gwezenn a vo gwerzhet geti ar blez-mañ : gwez avaloù, pêr, kerez, pechez, kastrilhez... Pep hini a gavay e lod. Hag emañ mare ar plantañ é tostaat, emezi. Mard oc'h dedennet da ouiet hiroc'h àr ar gwez a gaver e magerezh gwez-frouezh Anna Jouin pe ma faota deoc'h prenañ unan zoken, e c'hellit kaouit ur yoc’h titouroù dre he lec'hienn internet « [pepinièregwez.fr] (http://pepinièregwez.fr) ». Hag adalek miz An Azvent, miz Kerzu e vo gwerzhet gwez ar c'houlzad geti.\nUr pennad-kaoz get Metig Jakez-Vargas.\nN'eo ket achiv an adlodennañ pe ar remembrement e Breizh avat : kalz kleuzioù a vez freuzet du-mañ du-hont atav, kilometradoù bep plez.\nHag an dra-se ne blija ket d'an holl ! Evit enebiñ doc’h an distrujoù-se 'zo bet krouet meur a strollad e Penn-ar-Bed hag e Aodoù-an-Arvor, « Kleuzioù » o anv. Unan ‘zo bet krouet ur miz 'zo e Boneur e Menez Are. Kar er barrez-se n'eus ket 'met ul labourer-douar ken ha kleuzioù a vez foeltret geton. Evit gwareziñ ar re a zo chomet en o sav eo bet krouet ar strollad « Kleuzioù Boneur ». Selaouomp Gérard Gwenn, unan deus ar re o deus savet ar stroll.\nUn atersadenn get Benjamin Bouard.\nDa glevet ivez er c'heleier: \n-Klemm en deus savet Jordan Bardella a-enep da X evit « implij dielloù faos » da geñver enklask Mediapart.\n-Harz-labour hollek a vo ar 17 dimeurzh é tonet.\n-Anvioù tud brudet ag an tu kleiz a zo bet kavet e ti Kevin Tessier, paotr ar gwalldaol e Trappes ha La Verrière.\n-Ul lodenn a lenn Jugon a vo goulliet evit pourveziñ ar stankell dour mat da evet e Pleven.\n-Lod 'zo a-enep d'ar raktres brasaat aquarium Sant-Maloù.\n-Doereioù a Hent ar Rhum: Dec’h eo arriv Boris Herrmann en 2vet plas àr podium ar bagoù Imoca, hag Élodie Bonafous en 3vet plas. Damien Seguin, er 1añ plas er rummad Vintage Multi."
    }
   ]
  },
@@ -87,20 +87,20 @@
     "texte": "durée : 00:02:04  - Fuloret eo lod eus tud liseidi Diwan Karaez. Penn kentañ miz Du 'oa bet sezizet poltredaoueg ar skol gant an archerien 'oa o klask gouzout piv 'noa klasket stankañ an hent-tizh a dremen nepell diouzh al lise. Kerent al liseidi zo oc'h en em aozañ evit respont war dachenn ar gwir hag er straed. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    },
    {
+    "id": "bd6084e0-e312-41f9-bdcd-e8ac9edb39a8",
+    "titre": "E brezhoneg - Au marché de Noël de Châteaulin, \"on vient pour acheter de beaux objets et défendre l'emploi breton\"",
+    "date": "2026-11-22T06:32:00+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/12f38df9-143e-4ed7-90bd-b3185fc8a033/27164-22.11.2026-ITEMA_24762720-2026B51954S0326-NET_29A_4EEF9907-6940-416C-A883-EB7580E7850E-21-0d06b84efcd1b08867cb98c9756b6097.mp3",
+    "duree": 140,
+    "texte": "durée : 00:02:20  - Lañset eo prantad ar marc'hadoù Nedeleg. E Kastelin 'vez an 19vet Artisan’art da gaout a-hed an dibenn-sizhun-mañ, d'an 21 ha d'an 22 a viz Du. Tro 2000 den a zeu d'ar marc'had-se bep bloaz evit prenañ profoù e-ser archantaouiñ skol Diwan Kastelin. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "9122c0f1-d3ac-4e8a-a9cc-35216378bd86",
     "titre": "E brezhoneg - Basket : \"On est très étonnés !\", les supporters des Béliers de Quimper ravis du superbe début de saison",
     "date": "2026-11-21T06:32:00+00:00",
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/e37fc5d3-3450-41f8-8a36-2740f632636e/27164-21.11.2026-ITEMA_24761881-2026B51954S0325-NET_29A_68003281-6F95-49B8-863F-D2D070C8C685-21-da25409b2c55e3c1ec1b53e5b9fed5f5.mp3",
     "duree": 111,
     "texte": "durée : 00:01:51  - C'hoarierien Maouted Kemper zo bet trec'h seizh gwech diwar an eizh match diwezhañ. Pevare emaint eus an Elite daou, goude ur c'hard eus ar c'hampionad. Hag e vo degemeret gante Hyères-Toulon, an daouzekvet, er c'hostum park, d'ar Sadorn 21 a viz Du da eizh eur noz. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "3bdcf585-64b2-4629-8421-2ef35cfd18e8",
-    "titre": "E brezhoneg - La mobilisation continue à Concarneau pour rapatrier la famille Al-Rayyes en Bretagne",
-    "date": "2026-11-20T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/16dfdb92-58b8-4a8d-b9ff-dc373f3e7622/27164-20.11.2026-ITEMA_24759724-2026B51954S0324-NET_29A_FEB872BB-0650-4F3C-8B16-DE862D0E30C3-21-81006c12e17abae45e48a8cb54ce05f8.mp3",
-    "duree": 94,
-    "texte": "durée : 00:01:34  - Spi a zo e Konk-Kerne evit a-sell ar familh Al-Rayyes. Eno emañ Yaser, ur palestinian yaouank o chom, goude bezañ kuitaet brezel Gaza. Goude mizioù a stourm eo kadarnaet an aotre da reiñ tri visa d'ar familh evit ma vo degemeret familh Yaser e Breizh ha bezañ pareet amañ. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
