@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-22T23:38:13.073997+00:00",
+ "maj": "2026-11-23T07:46:32.433456+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -79,6 +79,14 @@
   "nom": "Keleier : Ar reportaj",
   "episodes": [
    {
+    "id": "fda54bbb-79d9-4934-8003-1e0732f32426",
+    "titre": "E brezhoneg - Trombinosope saisi par les gendarmes au lycée Diwan : \"Une atteinte aux droits de nos enfants\"",
+    "date": "2026-11-23T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/d763f75e-4ee0-48a5-afc1-700477da7e69/27164-23.11.2026-ITEMA_24763891-2026B51954S0327-NET_29A_E61BF1DC-C87D-4FE4-ADDA-D52877C90F9F-21-9756e42ba42b912762b5b00226c97bc6.mp3",
+    "duree": 124,
+    "texte": "durée : 00:02:04  - Fuloret eo lod eus tud liseidi Diwan Karaez. Penn kentañ miz Du 'oa bet sezizet poltredaoueg ar skol gant an archerien 'oa o klask gouzout piv 'noa klasket stankañ an hent-tizh a dremen nepell diouzh al lise. Kerent al liseidi zo oc'h en em aozañ evit respont war dachenn ar gwir hag er straed. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
+   {
     "id": "9122c0f1-d3ac-4e8a-a9cc-35216378bd86",
     "titre": "E brezhoneg - Basket : \"On est très étonnés !\", les supporters des Béliers de Quimper ravis du superbe début de saison",
     "date": "2026-11-21T06:32:00+00:00",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/16dfdb92-58b8-4a8d-b9ff-dc373f3e7622/27164-20.11.2026-ITEMA_24759724-2026B51954S0324-NET_29A_FEB872BB-0650-4F3C-8B16-DE862D0E30C3-21-81006c12e17abae45e48a8cb54ce05f8.mp3",
     "duree": 94,
     "texte": "durée : 00:01:34  - Spi a zo e Konk-Kerne evit a-sell ar familh Al-Rayyes. Eno emañ Yaser, ur palestinian yaouank o chom, goude bezañ kuitaet brezel Gaza. Goude mizioù a stourm eo kadarnaet an aotre da reiñ tri visa d'ar familh evit ma vo degemeret familh Yaser e Breizh ha bezañ pareet amañ. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "dbcf0ccb-1695-43c4-9702-719cd35b0e1d",
-    "titre": "E brezhoneg - Emploi des personnes handicapées : \"Il faut rassurer les employeurs\"",
-    "date": "2026-11-19T05:35:30+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/fc019cc5-64f9-4bef-922a-dc343ec3255c/27164-19.11.2026-ITEMA_24758150-2026B51954S0323-NET_29A_3EB00A2B-08E8-4A89-A33B-B92CD2EB294D-21-4b408255c4f68530ee25b135ffba7313.mp3",
-    "duree": 154,
-    "texte": "durée : 00:02:34  - Er sizhun-mañ e vez dalc'het sizhunvezh europat evit labour an dud ampechet, hag an DuoDay hiziv, d'an 19 a viz Du, ma vez degemeret nammidi en embregerezhioù pe er stalioù. E 2026 e vez liammet ar gaoz en-dro d'an tem : \"Divamiñ, simplaat, ambroug. Al labour evit an holl.\" \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
