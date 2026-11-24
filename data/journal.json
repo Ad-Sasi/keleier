@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24T06:05:44.211082+00:00",
+ "maj": "2026-11-24T17:51:43.742854+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -26,16 +26,24 @@
   "nom": "Keleier ar Vro",
   "episodes": [
    {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84940",
+    "titre": "Keleier ar vro d'ar Meurzh 24 a viz-Du 2026",
+    "date": "2026-11-24T08:05:57+00:00",
+    "audio": "https://api.radios.bzh/assets/27d90dc6-fdda-441c-aaae-87b7e03260c8.mp3",
+    "duree": null,
+    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier ar mintin-mañ.\nSikour evit ur familh balestinian\nBloaz 'zo e oa deuet Yaser Al Rayyez, ur palestinian yaouank eus Gaza, da repuiñ da Gonk-Kerne. Degemeret eo bet gant ur familh eus ar vro. Abaoe emañ-hi o klask an tu da lakaat Arafat, an tad, da zont da Vreizh da vezañ soagnet. Met da zigentañ vo dav rastellañ 42 000 euroioù da baeañ frejoù an ospital. Selaouoùp Anthony Le Crom, eus komite skoazell ar familh Al Rayyez.\nUn atersadenn gant Metig Jakez-Vargas.\nKavet 'zo bet un ti da gKLT e Montroulez !\nDigwener e oa bet digoret Ti ar Vro Montroulez ! Ur batis eus ar re vravañ, da zegemer KLT hag an 29 kevredigezh all zo e-barzh. Ur milion a eurioù a zo bet postet evit an dra-se ha kaset eo bet ar projed-mañ gant Jean-Paul Vermot, maer Montroulez ha prezidant kumuniezh Bro Montroulez. Selaouomp Catherine Milin ha Jo Kalvez.\nUn atersadenn gant Erwan Blanchard.\nHa da glevet er c'heleier ivez :\nGwashaet eo an traoù d'ar merc'hed en Afghanistan c'hoazh.\nArmoù gall bet kavet etre daouarn trafikourien-aour er Surinam.\nTud-ar-veaj zo tamallet dezho bezañ lakaet tren Cléon da zirailhañ e miz-Gwengolo\nKomañset eo Bodadeg vras an AMF.\nHag a bosto Cyril Hanouna arc'hant e kleub War-Raok Gwengamp ?"
+   },
+   {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84905",
     "titre": "Keleier ar vro d'al Lun 23 a viz Du 2026",
     "date": "2026-11-23T08:11:56+00:00",
     "audio": "https://api.radios.bzh/assets/81780a41-e92e-48ce-a0bd-c7619f5dd81d.mp3",
     "duree": null,
-    "texte": "Embannet eo bet ar c'heleier gant Erwan Blanchard\n5400 dañserez ha dañser 'ba fest-noz Yaouank!\nDisadorn e oa fest-noz brasañ Breizh, setu e oa miliadoù a dud a oa bodet ba sal ar Frankiz e Roazhon evit Fest Noz Yaouank evit kaout tro da welet strolladoù pennañ sonerezh Breizh ‘vel Fleuve, Dixit pe Ndiaz. Ur roll a arzourien noa desachet an dud d’ar fest-noz ha lakaet anezho da zañsal betek tost peder eur beure. penaos eo tremenet an traoù war blas gant an dañserien pe an arvesterien ? Selaouomp diouzhtu Awen Charlez ha Bleuenn ... Ur reportaj gant Anton Burel.\nN'Diaz ' neus kinniget e album nevez da geñver fest-noz Yaouank!\nLeun chouk e oa nozvezh Fest-noz Yaouank disadorn, desachet e oa bet an dud gant an arzourien a oa bet programmet kement ha ma ne chome plas ebet da werzhañ war blas adalek ur serten eur. E-mesk ar strolladoù neus graet berzh war al leurenn e oa ‘Ndiaz a oa deuet da ginnig e pedervet bladenn Eurioù Gwenn embannet gant Paker prod. Guest star oa bet pedet gantañ evit dont da seniñ pe da ganañ gant sonerien Ndiaz, Selaouomp diouzhtu Yann Le Corre ezel deus ar strollad. Emañ gant Anton Burel.\nHa da selaou ouzhpenn 'bar c'heleier:\nAr c'hwec'hvet devezh stourm sokial 'oa dalc'het disadorn: 5000 manifestour c'hoazh 'ba Roazhon ha 'ban Naoned\n300 manifestour o vanifestiñ ouzh al lkabourioù evit kenderc'hel da sevel 11 km a RN 164\nSerret eo ti gwilioudiñ Ospital Landerne evit an eil gwech ar miz mañ\nSalud nazi, pozioù gouenelour, poltred ur bugel noaz: danvez un enklask kaset gant le Parisien 'ba ur skol da stummañ ofiserien Polis\nCop 32: disoc'h eo ha 'neus bet sinet emglev ebet\n99% eus douaroù Gaza zo saotret gaozen d'ar brezel"
+    "texte": "Embannet eo bet ar c'heleier gant Erwan Blanchard\n5400 dañserez ha dañser 'ba fest-noz Yaouank!\nDisadorn e oa fest-noz brasañ Breizh, setu e oa miliadoù a dud a oa bodet ba sal ar Frankiz e Roazhon evit Fest Noz Yaouank evit kaout tro da welet strolladoù pennañ sonerezh Breizh ‘vel Fleuve, Dixit pe Ndiaz. Ur roll a arzourien noa desachet an dud d’ar fest-noz ha lakaet anezho da zañsal betek tost peder eur beure. penaos eo tremenet an traoù war blas gant an dañserien pe an arvesterien ? Selaouomp diouzhtu Awen Charlez ha Bleuenn ... Ur reportaj gant Anton Burel.\nN'Diaz ' neus kinniget e album nevez da geñver fest-noz Yaouank!\nLeun chouk e oa nozvezh Fest-noz Yaouank disadorn, desachet e oa bet an dud gant an arzourien a oa bet programmet kement ha ma ne chome plas ebet da werzhañ war blas adalek ur serten eur. E-mesk ar strolladoù neus graet berzh war al leurenn e oa ‘Ndiaz a oa deuet da ginnig e pedervet bladenn Eurioù Gwenn embannet gant Paker prod. Guest star oa bet pedet gantañ evit dont da seniñ pe da ganañ gant sonerien Ndiaz, Selaouomp diouzhtu Yann Le Corre ezel deus ar strollad. Emañ gant Anton Burel.\nHa da selaou ouzhpenn 'bar c'heleier:\nAr c'hwec'hvet devezh stourm sokial 'oa dalc'het disadorn: 5000 manifestour c'hoazh 'ba Roazhon ha 'ban Naoned\n300 manifestour o vanifestiñ ouzh al labourioù evit kenderc'hel da sevel 11 km a RN 164\nSerret eo ti gwilioudiñ Ospital Landerne evit an eil gwech ar miz mañ\nSalud nazi, pozioù gouenelour, poltred ur bugel noaz: danvez un enklask kaset gant le Parisien 'ba ur skol da stummañ ofiserien Polis\nCop 32: disoc'h eo ha 'neus bet sinet emglev ebet\n99% eus douaroù Gaza zo saotret gaozen d'ar brezel"
    },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84874",
-    "titre": "Keleier d'ar Gwener 20 a viz Du 2026",
+    "titre": "Keleier ar vro d'ar Gwener 20 a viz Du 2026",
     "date": "2026-11-20T08:48:03+00:00",
     "audio": "https://api.radios.bzh/assets/573369be-e17d-40ed-b4f8-0367e7d07a6e.mp3",
     "duree": null,
@@ -64,14 +72,6 @@
     "audio": "https://api.radios.bzh/assets/7db8d7db-97bb-48b4-874e-376a367af0e5.mp3",
     "duree": null,
     "texte": "Embannet eo bet ar c'heleier gant Anton Burel\nBrezhoweb Komedi Klub nevez\nAbadennoù stand-up a vez gwelet ur bern e galleg, saozneg, spagnoleg ha me oar-me, met kalz nebeutoc'h a zo e yezhoù-rannvro. An dra-se zo kaoz e oa bet krouet ar Brezhoweb Komedi Club, ar c'hentañ stand-up e brezhoneg. Bloaz 'zo bremañ e oa deuet e-maez an abadenn gentañ hag un eil abadenn a oa bet filmet ar sizhun baseet e studio Brezhoweb en Alre. Seizh den a oa bet war al leurenn etre tout, paotred ha merc'hed a-bep seurt oad, o kontañ traoù fentus e brezhoneg tout. Selaouomp Dewi Siberil, bet o prezañtiñ an div abadenn.\nUr pennad-kaoz gant Benjamin Bouard\nPa c'hwezh avel hon lennegezh 2 gant Herve Bihan\nEtre miz Here ha miz Kerdu emaomp e Kreiz mare al levrioù : gant saloñs Karaez e fin miz Here, saloñs Gwenrann an dibenn-sizhun tremenet ha Nedeleg a zeu a-benn un tamm ouzhpenn ur miz bremañ. Kendalc’homp neuze da welet peseurt levrioù zo bet embannet ha petra eo oberennoù lennegel pennañ ar bloaz-mañ. E-mesk al levrioù nevez embannet o deus graet trouz ez eus eil levrenn Pa c’hwezh avel hon lennegezh gant Herve Bihan. Ar c’helenner emerit e skol-veur Roazhon 2 zo brudet evit bezañ e-mesk arbennigourien pennañ deus hor yezh, istor hor yezh hag hon lennegezh, kinnig a ra gant Pa c’hwezh avel hon lennegezh un dibab pennadoù skrid ha kronikennoù diwar-benn Gwalarn, ar gelaouenn hag al luskad lennegel neus savet hon lennegezh a-vremañ. \nUr pennad-kaoz gant Anton Burel\nHa da selaou ouzhpenn 'bar c'heleier : \nSoudarded an arme c'hall en Ukraina\nHarz labour ar 17 a viz Du\nDarn vrasañ gloazadennoù ar boliserien e-pad al luskad sokial-mañ a zo dister hervez enklask nevez Mediapart\nFestival Yaouank e Bro-Roazhon\nKrogad etre Euskal Seleksioa (Skipailh Broadel Bro-Euskal) ha Skipailh Venezuela"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84694",
-    "titre": "Keleier ar vro d'al Lun 16 a viz-Du 2026",
-    "date": "2026-11-16T08:10:53+00:00",
-    "audio": "https://api.radios.bzh/assets/5b5c5160-d463-4e6d-b749-e1c0339e9a56.mp3",
-    "duree": null,
-    "texte": "Gant Benjamin Bouard eo bet embannet ar c'heleier.\nDaou-c'hant a dud a oa bet o vanifestiñ evit an hin disadorn.\nGant Greenpeace, Collectif Kiwi ha Colère Cancer 'oa bet renket an abadenn-mañ, evit goulenn ma vo taolañ kont un tammig muioc'h ouzh ar cheñchamant-hin. Tud deus an Ekolojisted pe deus an Association France Palestine Solidarité (AFPS) a oa war ar plas ivez. Goulc'hen Tomin a oa en o zouez.\nUn atersadenn gant Erwan Blanchard.\nUl levr diwar-bouez ar Roc'h-Morvan gwechall.\nMémoires Rochoises eo e anv, skrivet gant Marie Guen, gras da destenioù bet dastumet gant tud eus ar Roc'h-Morvan, e-kichenn Landerne, evit dalc'hen soñj eus ar vuhez gwechall.\nUn atersadenn gant Erwan Blanchard.\nHa da glevet er c'heleier ivez :\nUgent-mil a veajoù dre girri-nij nullet er Stadoù-Unanet.\nTamallet 'zo da France Inter bezañ sañsuret levr Rima Hassan en abadenn Le Masque et la Plume.\nBec'h a zo atô e Sainte-Soline.\nDour a vo kaset eus lenn Jugon da Bleven, kuit d'an dour da vankañ e uzin-dour Lamballe.\nSportoù : football, Hent ar Rhum, handball"
    }
   ]
  },
