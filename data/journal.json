@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T02:32:46.624765+00:00",
+ "maj": "2026-11-25T14:29:16.738351+00:00",
  "radios": [
   {
    "nom": "Arvorig FM",
@@ -25,6 +25,14 @@
  "journal": {
   "nom": "Keleier ar Vro",
   "episodes": [
+   {
+    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84968",
+    "titre": "Keleier ar vro d'ar Merc'her 25 a viz Kalan-gouiañv 2026",
+    "date": "2026-11-25T08:03:43+00:00",
+    "audio": "https://api.radios.bzh/assets/92621d69-716d-46d3-be66-b40bec4e7c95.mp3",
+    "duree": null,
+    "texte": "Kinniget eo bet an doereioù get Aodren Trehin ar mintin-mañ.\nUr bank ruz evit skoazell ar maouezi gwallgaset get ar baotred a zo bet staliet e Plouneour-Menez e penn kentañ ar miz, él e 23 gumun ‘zo àr dachenn Montroulez-Kumuniezh.\nLakaet eo bet chouk d’ar skolaj ha da vurev klañvdiourezed, ur plas lec’h ‘zo pasapl a dud é tremen.\nMona Jaouen ha Tangi Daniel a zo kuzulierion.ezed kêr e Plouneour-Menez. Muioc’h a ditoutoù gete doc’h mikro Erwan Blanchard.\nAn dibenn-sizhun tremenet e oa bet aozet ur festival e Roazhon get ar gevredigezh Watoo-siita evit devezh etrevroadel gwirioù ar vugale.\nWatoo-siita a zo ur gevredigezh a voda tud ag Afrika a zo deuet da chom da Frañs. Aozet en deus neuze ur festival, Racines e anv, hag a oa e bal lakaat ar vugale da ouiet hiroc’h àr o bro orin hag ar vro m’emaint é chom evit m’em santehent gwriziet en div vro. Tud Watoo-Siita o deus kinniget un abadenn disadorn e Roazhon neuze asambl get al laz-kanañ e brezhoneg Kan dre gan. Selaouomp Jean-René Ar Moulleg kaner e Kan dre Gan get Anton Burel.\nDa glevet ivez en doereioù:\n-Devezh etrevroadel ar stourm doc’h ar feulsterioù graet d’ar ar mouezi get ar baotred eo hiriv.\n-Ar poliser en deus lazhet Nahel Merzouk a vo barnet en asizoù evit muntr.\n-Ar gelaouenn 60 millions de consommateurs a vo marse prenet get Xavier Niel an embreger pec’henn àr Free.\n-Harzet eo get ar justis al labourioù da sevel ur greizenn bac’hañ e Naoned evit an estranjourion a zo dibaper. (CRA)\n-4 c'humun er Morbihan ha peder arall e Penn-ar-bed a zo anavet él é c’houzanv gwallreuz naturel a gaoz d’ar sec’hor.\n-Ne vo ket gwerzhet lodennoù kleub foot Gwengamp da Cyril Hanouna.\n-Chom a ray serret ti-gwilioudiñ Landerne betek an 3 a viz Genver."
+   },
    {
     "id": "https://radio-boa.bzh/fr/radio-breizh/1/84940",
     "titre": "Keleier ar vro d'ar Meurzh 24 a viz-Du 2026",
@@ -64,20 +72,20 @@
     "audio": "https://api.radios.bzh/assets/fd12504a-392f-458e-bc8a-e0a9acd34fcc.mp3",
     "duree": null,
     "texte": "Embannet eo bet ar c'heleier gant Erwan Blanchard\nTagadenn Kafe de la Plage 'ba Brest: 12 den dirak ar varnerien\nDaouzek den zo tamallet dezho bout bet taget an ostri Café de la plage ‘ba Brest e miz Gwengolo 2025 ‘oa ‘bal lez-varn dilun. Un dagadenn ‘oa bet kaset gant un tregont bennaket a dud 'oa masklet, ‘vit ul lodenn deusho, ha gant armoù ‘vel poing américain pe bizhier da c’hoari base-ball ‘vit ul lodenn all. Un dagadenn bet kaset gant \"tud foll nailh\" ‘noa embannet ar brokulorez dec’h gant ur feuslter ne weler ket gwall alies. Hag eviti ‘zo ur flaer politikel sklaer 'ban afer se: hini an tu dehou pellañ. Klaskomp goar hiroc’h gant unan eus ar gazetennerien ‘oa war blas dec’h a-hed an abardaez. Emañ gant Erwan Blanchard.\nUr miz warlerc'h ar 17 a viz Here e kendalc'h ar stourmoù sokial!\nWar vihanaat ez a al luskad sokial e Breizh. E Kemper e oa bet tro 400 den hepken er straedoù ar mintin-mañ. Goulenn a reont atav kreskoù gopr evit ar fonksionerien, araokadenn war koust ar vuhez ha kondisionoù studi gwelloc'h. Met war skuishaat ez ar re yaouank, hag an devezh blokus diwezhañ e oa hiziv sur a walc'h e lise publik Brizeux e Kemper, evel ma tispleg div liseadez, Alice ha Lylie. Met distroomp da gentañ war o stourm. Emaint gant Metig Jakez-Vargas.\nHa da selaou ouzhpenn 'bar c'heleier:\nSerret 'vo ar servij psikiatri 'ba Noal-Pondi!\n10 000 devez arat ouzhpenn 'ba takad Natura 2000 ar ster Aon\n22 000 zo bet serret evit skoazell familh Yaser!\nMatan Kahana, zo a-enep Netanyahou, zo bet dilennet prezidant ar c'hKnesset\nVincent Bolloré 'vo dirak ar varnerien 'vit breinet kargidi 'ba Togo\nKieran Le Borgne 'neus gounezet Hent ar Rhum 'ba rummad Mono Vintage"
-   },
-   {
-    "id": "https://radio-boa.bzh/fr/radio-breizh/1/84740",
-    "titre": "Keleier ar vro d'ar Meurzh 17 a viz Du 2026",
-    "date": "2026-11-17T09:26:49+00:00",
-    "audio": "https://api.radios.bzh/assets/7db8d7db-97bb-48b4-874e-376a367af0e5.mp3",
-    "duree": null,
-    "texte": "Embannet eo bet ar c'heleier gant Anton Burel\nBrezhoweb Komedi Klub nevez\nAbadennoù stand-up a vez gwelet ur bern e galleg, saozneg, spagnoleg ha me oar-me, met kalz nebeutoc'h a zo e yezhoù-rannvro. An dra-se zo kaoz e oa bet krouet ar Brezhoweb Komedi Club, ar c'hentañ stand-up e brezhoneg. Bloaz 'zo bremañ e oa deuet e-maez an abadenn gentañ hag un eil abadenn a oa bet filmet ar sizhun baseet e studio Brezhoweb en Alre. Seizh den a oa bet war al leurenn etre tout, paotred ha merc'hed a-bep seurt oad, o kontañ traoù fentus e brezhoneg tout. Selaouomp Dewi Siberil, bet o prezañtiñ an div abadenn.\nUr pennad-kaoz gant Benjamin Bouard\nPa c'hwezh avel hon lennegezh 2 gant Herve Bihan\nEtre miz Here ha miz Kerdu emaomp e Kreiz mare al levrioù : gant saloñs Karaez e fin miz Here, saloñs Gwenrann an dibenn-sizhun tremenet ha Nedeleg a zeu a-benn un tamm ouzhpenn ur miz bremañ. Kendalc’homp neuze da welet peseurt levrioù zo bet embannet ha petra eo oberennoù lennegel pennañ ar bloaz-mañ. E-mesk al levrioù nevez embannet o deus graet trouz ez eus eil levrenn Pa c’hwezh avel hon lennegezh gant Herve Bihan. Ar c’helenner emerit e skol-veur Roazhon 2 zo brudet evit bezañ e-mesk arbennigourien pennañ deus hor yezh, istor hor yezh hag hon lennegezh, kinnig a ra gant Pa c’hwezh avel hon lennegezh un dibab pennadoù skrid ha kronikennoù diwar-benn Gwalarn, ar gelaouenn hag al luskad lennegel neus savet hon lennegezh a-vremañ. \nUr pennad-kaoz gant Anton Burel\nHa da selaou ouzhpenn 'bar c'heleier : \nSoudarded an arme c'hall en Ukraina\nHarz labour ar 17 a viz Du\nDarn vrasañ gloazadennoù ar boliserien e-pad al luskad sokial-mañ a zo dister hervez enklask nevez Mediapart\nFestival Yaouank e Bro-Roazhon\nKrogad etre Euskal Seleksioa (Skipailh Broadel Bro-Euskal) ha Skipailh Venezuela"
    }
   ]
  },
  "reportaj": {
   "nom": "Keleier : Ar reportaj",
   "episodes": [
+   {
+    "id": "8c8a5f72-bb5b-4fde-add3-1ec40e5eb8b2",
+    "titre": "E brezhoneg : La santé mentale des agriculteurs en Bretagne mise à mal par cette année difficile",
+    "date": "2026-11-25T05:35:30+00:00",
+    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/37a6e373-f0fe-4175-9a77-e1e02b6001e8/27164-25.11.2026-ITEMA_24766039-2026B51954S0329-NET_29A_E4ADB0DD-408D-4427-9B8E-958787965B87-21-9006e95b0fc4dfb7c6ca09d13f32b2e9.mp3",
+    "duree": 127,
+    "texte": "durée : 00:02:07  - Da ziwall a zo gant spered ar beizanted er mare-mañ, er bloazh 2026, pa 'vez diaes ar jeu gant kalz anezhe ablamour d'an amzer-sec'h a zo dibaoe mizioù. Kudennoù all a bep seurt a zo, evit ar broduerien legumaj hag an desaverien chatal ivez. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
+   },
    {
     "id": "3a63d9c6-1861-4827-abe0-8d807bf3389a",
     "titre": "E brezhoneg - Aide et soins à domicile : les salariés appelés à la grève ce mardi à Quimper",
@@ -93,14 +101,6 @@
     "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/d763f75e-4ee0-48a5-afc1-700477da7e69/27164-23.11.2026-ITEMA_24763891-2026B51954S0327-NET_29A_E61BF1DC-C87D-4FE4-ADDA-D52877C90F9F-21-9756e42ba42b912762b5b00226c97bc6.mp3",
     "duree": 124,
     "texte": "durée : 00:02:04  - Fuloret eo lod eus tud liseidi Diwan Karaez. Penn kentañ miz Du 'oa bet sezizet poltredaoueg ar skol gant an archerien 'oa o klask gouzout piv 'noa klasket stankañ an hent-tizh a dremen nepell diouzh al lise. Kerent al liseidi zo oc'h en em aozañ evit respont war dachenn ar gwir hag er straed. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
-   },
-   {
-    "id": "bd6084e0-e312-41f9-bdcd-e8ac9edb39a8",
-    "titre": "E brezhoneg - Au marché de Noël de Châteaulin, \"on vient pour acheter de beaux objets et défendre l'emploi breton\"",
-    "date": "2026-11-22T06:32:00+00:00",
-    "audio": "https://proxycast.radiofrance.fr/0760f712-f39e-4aba-a3f2-891453f91f66/32beb1b2-5d83-4b54-9e2c-0ac886ef7b94/12f38df9-143e-4ed7-90bd-b3185fc8a033/27164-22.11.2026-ITEMA_24762720-2026B51954S0326-NET_29A_4EEF9907-6940-416C-A883-EB7580E7850E-21-0d06b84efcd1b08867cb98c9756b6097.mp3",
-    "duree": 140,
-    "texte": "durée : 00:02:20  - Lañset eo prantad ar marc'hadoù Nedeleg. E Kastelin 'vez an 19vet Artisan’art da gaout a-hed an dibenn-sizhun-mañ, d'an 21 ha d'an 22 a viz Du. Tro 2000 den a zeu d'ar marc'had-se bep bloaz evit prenañ profoù e-ser archantaouiñ skol Diwan Kastelin. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France"
    }
   ]
  }
